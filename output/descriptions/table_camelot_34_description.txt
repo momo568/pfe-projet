@@ -1,0 +1,55 @@
+The provided text is an extract from a table figure in a risk management document, specifically comparing leasing and credit (Crédit) options for acquiring a vehicle. The table highlights differences between these two methods. Here's a detailed explanation of the content:
+
+**Leasing VS Crédit Po Les écarts avec le crédit 2/3**
+
+The title suggests that the table will compare the key differences between leasing and credit options, with an emphasis on the 2/3 ratio (likely referring to the percentage difference).
+
+**oe : Leasing**
+
+The first row appears to be a header for the leasing option. The text "oe" might be a typo or a formatting error.
+
+**wee ag , ‘4 En LOA et Crédit Bail, le**
+
+This line seems to be a continuation of the previous sentence, but it's unclear what "wee ag" refers to. The mention of "En LOA et Crédit Bail, le" suggests that this row is describing leasing options within a specific context (LOA: Livret d'Epargne Action, a type of savings account in France?).
+
+**La Société de Gestion étant le L’emprunteur étant le Toute la durée du contrat**
+
+This sentence appears to be discussing the role of the Society of Management (Société de Gestion) as both the lessor (Leasing) and borrower (L'Emprunteur) throughout the contract duration.
+
+**Prop " Prop! l’emprunteur est le propriétaire**
+
+The text seems to be stating that, in leasing, the lessee (l'emprunteur) is not the owner of the property but rather the Society of Management. This contradicts the previous sentence, which mentioned the Society as both lessor and borrower.
+
+**racheter son véhicule propriétaire**
+
+This line suggests that, at the end of the leasing contract, the lessee has the option to buy the vehicle from the Society of Management (propriétaire).
+
+**Le Bien rentre dans I’ACTIF**
+
+The text implies that, upon termination of the lease, the asset (Bien) becomes part of the actif (active) category.
+
+**OPTION d’ACHAT**
+
+This sentence likely refers to an option for the lessee to purchase the vehicle at the end of the lease, as previously mentioned.
+
+**Le CRD en fin de contrat = 0**
+
+The text suggests that the residual value of the vehicle (CRD: Crédit Réduction du Danger) at the end of the contract is zero. This implies that the vehicle has no remaining value or has been fully depreciated.
+
+**elle peut 'AMORTIR wawornastesien fo**
+
+This line appears to be discussing amortization options, but the text "wawornastesien" seems to be an error or a typo.
+
+**3 types d’amortissements 1 seul type d’amortissement : Po**
+
+The text mentions three types of amortizations (amortissements), which is unclear as it contradicts the following sentence. It's possible that this line should read "1 seul type d'amortissement" (one single type of amortization) instead.
+
+**En LLD le concessionnaire**
+
+This sentence likely refers to a specific context, possibly mentioning the dealer (concessionnaire) in an LLD (Livret de Développement Durable?).
+
+**En cas de Crédit Ballon, il y a**
+
+The text seems to be discussing credit options with a balloon payment (Crédit Ballon), but this sentence is unclear without further context.
+
+In summary, the provided table appears to compare leasing and credit options for acquiring a vehicle. The text discusses differences between these two methods, including the role of the Society of Management, lessee's option to buy the vehicle, residual value, and amortization options. However, some parts of the text are unclear or contain errors (e.g., "wee ag", "wawornastesien"), making it difficult to provide a definitive explanation without additional context or clarification.

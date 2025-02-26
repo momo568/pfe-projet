@@ -1,0 +1,18 @@
+Révolving… Tirages
+Les Tirages :
+Les comptes revolving peuvent fonctionner avec des cartes, les tirages peuvent être de 2 sortes:
+❖ Manuel
+❖ Télématique
+2- Carrefour envoie la facture
+3- CETELEM paye la facture
+Fournisseur : Carrefour
+Société financière: CETELEM
+1- Le client achète un bien
+en effectuant un tirage
+4- Le client rembourse l’échéancier
+Client
+[Image: image_50_1.png] (Position: 689.64, 213.35999999999996)
+[Image: image_50_2.png] (Position: 114.96, 205.44)
+[Image: image_50_3.png] (Position: 400.44, 415.08)
+
+

@@ -1,0 +1,4 @@
+ |  | Taux périodique
+Loyer = | Montant à financer x | 
+ |  | 
+ |  | 1 - ( 1 + Taux périodique )-Nombre mensualités

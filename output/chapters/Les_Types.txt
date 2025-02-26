@@ -1,0 +1,52 @@
+Les Types d’amortissement d’un Crédit Bancaire
+❑ L'amortissement d’un crédit bancaire correspond au remboursement progressif, à chaque échéance, du
+capital emprunté par le client auprès de sa banque.
+❑ Chaque échéance de remboursement est composée du montant des intérêts calculés sur le capital restant
+dû et de l’amortissement du capital emprunté.
+❑ Le mode d’amortissement dépend des offres des banques et des choix des clients.
+❑ Les modalités de remboursement du crédit sont déterminées à l’avance.
+❑ En règle générale, le prêteur doit remettre à l’emprunteur un tableau d'amortissement où sont reprises les
+caractéristiques du prêt et les échéances.
+1. Amortissement par annuités constantes:
+❑ L’amortissement avec annuités constantes est la formule la plus souvent rencontrée à l’occasion des
+remboursements de crédits.
+❑ La part des intérêts dans un amortissement avec annuités constantes est plus élevée au départ. Elle va
+ensuite diminuer régulièrement tandis que celle du capital remboursé va progressivement augmenter.
+2. Amortissement par échéances constantes (Capital constant) :
+❑ Le principe de ce mode d'amortissement est que la part de capital remboursée à chaque échéance est la
+même pendant toute la durée de l'emprunt.
+❑ Ce type d’amortissement est appelé amortissement constant ou linéaire du crédit.
+
+Les Types d’amortissement d’un Crédit Bancaire
+3. Amortissement modulable:
+❑ L’amortissement avec amortissements modulables offre une certaine souplesse de remboursement.
+❑ Avec les amortissements modulables, l'emprunteur peut réduire la durée du prêt ou inversement en cas de
+difficultés passagères, rallonger la durée de son emprunt.
+❑ L’amortissement modulable donne la possibilité à l’emprunteur d’adapter ses remboursements en fonction
+de l’évolution de ses revenus.
+4. Amortissement "in fine " :
+❑ L’amortissement in fine implique que pendant toute la durée du crédit, l'emprunteur ne paie que les
+intérêts.
+❑ Avec un amortissement in fine, l'emprunteur devra rembourser la totalité du capital, en une seule fois à une
+échéance prédéterminée.
+❑ Les intérêts payés sont constants puisqu’ils sont calculés à sur le capital total emprunté
+5. Différé d'amortissement:
+❑ Il est possible pour la banque et son client de prévoir un différé d’amortissement et donc, de remboursement.
+Lorsqu'un différé de remboursement est partiel, il porte sur le capital.:
+❑ L’emprunteur va alors payer les intérêts calculés sur la totalité du capital emprunté au cours de la période de
+différé.
+❑ A la fin de cette période, l’emprunteur rembourse normalement son prêt. Les échéances comportent à la fois
+une partie d’intérêts et une partie de remboursement de capital.
+
+Les Types d’amortissement d’un Crédit Bancaire
+Lorsqu'un différé de remboursement est total, il porte sur le capital et les intérêts.
+❑ Durant la période de différé, le client ne supporte aucune charge. Il commencera à rembourser le capital et
+à payer les intérêts à l’issue de la période de différé.
+❑ Lorsque le différé est total, l’emprunteur doit toutefois faire face aux intérêts intercalaires et à l’assurance
+décès invalidité.
+❑ D’une manière générale, l'emprunteur a la possibilité de rembourser par anticipation tout ou partie du
+montant du prêt restant dû.
+La banque réclame, dans ce cas de figure, des pénalités de remboursement anticipé (sauf si des dispositions
+différentes ont été prévues dans le contrat de prêt)
+
+

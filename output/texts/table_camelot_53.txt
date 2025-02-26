@@ -1,0 +1,13 @@
+Révolving
+
+Les méthodes de calcul de I’échéance sont
+
+1 Montant Fixe
+
+Ci Pourcentage de I’encours
+
+C1 Pourcentage du plafond
+
+(Echéance en fonction de I'encours
+
+Eléments de I'arrété

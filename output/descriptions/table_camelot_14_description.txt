@@ -1,0 +1,18 @@
+Based on the extracted text, it appears to be a table figure from a risk management document related to credit risk management. The table is titled "Crédit Classique Principes et regles de gestion" which translates to "Classic Credit Principles and Management Rules". Here's a detailed explanation of the table:
+
+**Column 1: Type de crédit (Type of Credit)**
+
+The first column lists two types of credits: "koe" and an empty cell. It is unclear what "koe" refers to, but it might be a typo or a code used in the risk management process.
+
+**Column 2: Crédit affecté (Affected Credit)**
+
+The second column appears to categorize credits into two categories:
+
+* **Personne physique**: This category likely refers to credits extended to individuals (physical persons).
+* **Personne morale**: This category likely refers to credits extended to organizations or legal entities (moral persons).
+
+**Column 3: Crédit non affecté (Non-Affected Credit)**
+
+The third column is empty, which suggests that it might be intended for a different type of information or analysis.
+
+In summary, this table seems to categorize credits based on the type of borrower (individual or organization) and whether the credit is affected by certain principles or rules. The empty cells suggest that there might be additional information or categories not shown in this particular extract.

@@ -1,0 +1,12 @@
+Based on the provided text, it appears that the table is related to risk management and specifically deals with calculating interests on a loan or debt. Here's a breakdown of the content:
+
+**Header**: The top section of the table mentions "CH Les intérts ne sont caleulés que sur le rmounted blige de I termes, sur UENCOURS". This suggests that the interest is calculated only on the principal amount (blige) at the end of each period (termes), using a certain method or formula (UENCOURS).
+
+**Middle Section**: The table appears to be divided into two parts. The first part mentions "Probleme en cas de changement de taux" which translates to "Problem in case of rate change". This section likely discusses the potential issues that arise when interest rates change, such as recalculating interest payments or reassessing loan terms.
+
+**Second Part**: The second part of the table is titled "Méthode des dominos", which is French for "Method of Dominoes". This suggests a framework or approach to managing risk, similar to how dominoes are used to illustrate cause-and-effect relationships. The text then lists three items:
+
+1. **Leta**: This could be an abbreviation or acronym for a specific method or process related to interest calculation or loan management.
+2. **Facture agios et prestations (A ECHOIR)**: This translates to "Invoice of interests and services (To Be Echoed)". It's likely that this refers to the process of calculating and invoicing interest payments and other fees associated with a loan.
+
+**Overall**: The table appears to be discussing methods for calculating interest on loans, potential issues that arise when interest rates change, and possibly an approach or framework for managing risk related to these financial transactions.

@@ -1,0 +1,13 @@
+Notions de base… Les techniques d’amortissement
+Amortissement par échéances/annuités constantes
+L’amortissement avec annuités constantes est la formule la plus souvent rencontrée à l’occasion des remboursements de
+crédits. La part des intérêts dans un amortissement avec annuités constantes est plus élevée au départ. Elle va ensuite
+diminuer régulièrement tandis que celle du capital remboursé va progressivement augmenter.
+Amortissement à capital constant
+Le principe de ce mode d'amortissement est que la part de capital remboursée à chaque échéance est la même pendant
+toute la durée de l'emprunt.
+Ce type d’amortissement est appelé amortissement constant ou linéaire du crédit.
+Amortissement « in fine »
+L’amortissement in fine implique que pendant toute la durée du crédit, l'emprunteur ne paie que les intérêts.
+L'emprunteur rembourse la totalité du capital, en une seule fois à la dernière échéance.
+Les intérêts payés sont constants puisqu’ils sont calculés sur le capital total emprunté.

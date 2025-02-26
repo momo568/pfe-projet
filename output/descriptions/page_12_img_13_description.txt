@@ -1,0 +1,8 @@
+I'm afraid I have some bad news!
+
+Since there is "Aucun texte extrait de l'image" (which means "No text extracted from the image"), it appears that there is no text to work with. This could mean one of two things:
+
+1. The figure in the risk management document does not contain any text, only visual elements such as charts, graphs, or images.
+2. The extraction process failed to retrieve any text from the figure, possibly due to formatting issues or the lack of textual content.
+
+In either case, I'm unable to generate a detailed explanation of this figure based on extracted text, as there is no text to work with. If you could provide more context or additional information about the figure, I'd be happy to try and assist you further!

@@ -1,0 +1,13 @@
+Based on the extracted text, it appears that the table is discussing different methods for calculating the maturity date (échéance) in the context of revolving credit or debt. Here's a breakdown of each method:
+
+1. **Montant Fixe** (Fixed Amount): This method involves using a fixed amount to determine the maturity date. The exact calculation is not specified, but it implies that a specific sum of money is used as the basis for calculating the échéance.
+
+2. **Ci Pourcentage de l'encours**: This method calculates the maturity date based on a percentage of the outstanding balance (encours). For example, if the outstanding balance is $1,000 and the percentage is 10%, the maturity date would be calculated using $100 (10% of $1,000).
+
+3. **C1 Pourcentage du plafond**: This method calculates the maturity date based on a percentage of the ceiling or limit (plafond) rather than the outstanding balance. The exact calculation is not specified, but it implies that a specific percentage of the ceiling is used to determine the échéance.
+
+4. **Echéance en fonction de l'encours**: This method calculates the maturity date based on the outstanding balance (encours). However, no further details are provided about this method.
+
+5. **Eléments de l'arrêté** (Elements of the Arrêté): It is unclear what "arrêté" refers to in this context. It may be a reference to a specific regulation or decree that provides additional guidance on calculating the maturity date. Alternatively, it could be an internal document or agreement that outlines the rules for calculating the échéance.
+
+Overall, the table appears to provide different approaches for calculating the maturity date of revolving credit or debt, with some methods using percentages of the outstanding balance or ceiling, and others relying on fixed amounts or unspecified calculations.

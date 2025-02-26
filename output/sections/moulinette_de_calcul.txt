@@ -1,0 +1,11 @@
+Moulinette de Calcul
+Moulinette de calcul:
+Taux périodique
+Loyer = Montant à financer x
+1 - ( 1 + Taux périodique )-Nombre mensualités
+Notions financières :
+Taux périodique = Taux d’intérêt annuel * périodicité /12
+Montant à financer = Montant du bien – Apport
+Loyer = Capital + intérêt
+Somme des loyer = Loyer * Durée
+Agios = La somme des loyers – Montant à financer

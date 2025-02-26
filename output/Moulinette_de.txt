@@ -1,0 +1,173 @@
+Moulinette de Calcul
+Moulinette de calcul:
+Taux périodique
+Loyer = Montant à financer x
+1 - ( 1 + Taux périodique )-Nombre mensualités
+Notions financières :
+Taux périodique = Taux d’intérêt annuel * périodicité /12
+Montant à financer = Montant du bien – Apport
+Loyer = Capital + intérêt
+Somme des loyer = Loyer * Durée
+Agios = La somme des loyers – Montant à financer
+ |  | Taux périodique
+Loyer = | Montant à financer x | 
+
+ |  | 1 - ( 1 + Taux périodique )-Nombre mensualités
+
+Moulinette de Calcul Exemple
+Caractéristiques du crédit: Données calculées:
+Données du crédit Valeur Données calculés Valeur
+Taux périodique 0,0100000
+Montant du bien 15 000,00
+Durée 12
+Apport 3 000,00
+Montant à financer 12 000,00
+Taux d'intérêt annuel 12
+Loyer 1066,19
+Durée 12
+Somme des loyers (= loyer * durée) 12659,88
+Périodicité (=1 si mois) 1
+Agios – Coût - Intérêts 659,88
+Détails de calcul des intérêts par période pour les trois premières échéances: un taux périodique de 1%, un capital
+emprunté de 12 000 €, un montant d'échéance de 1066,19 € ( en appliquant la formule de calcul du loyer).
+Intérêts Capital Remboursé Capital restant à remboursé
+Capital par le taux périodique soit: Montant d'échéance moins les intérêts,
+1e échéance 12000 * 1% = 120 € soit : 1066,19 - 120 = 946,19€ 12000 - 946,19 = 11 053,81€
+2e échéance 11053,81 * 1% = 110,54 € 1066,19 - 110,54 = 955,65 € 11 053,81 - 955,65 = 10 098,17€
+3e échéance 10098,17 * 1% = 100,98 € 1066,19 - 100,98 = 965,20 € 10 098,17 - 965,20 = 9132,96 €
+Données du crédit | Valeur
+Montant du bien | 15 000,00
+Apport | 3 000,00
+Taux d'intérêt annuel | 12
+Durée | 12
+Périodicité (=1 si mois) | 1
+Données calculés | Valeur
+Taux périodique | 0,0100000
+Durée | 12
+Montant à financer | 12 000,00
+Loyer | 1066,19
+Somme des loyers (= loyer * durée) | 12659,88
+Agios – Coût - Intérêts | 659,88
+ | Intérêts | Capital Remboursé | Capital restant à remboursé
+1e échéance | Capital par le taux périodique soit:
+12000 * 1% = 120 € | Montant d'échéance moins les intérêts,
+soit : 1066,19 - 120 = 946,19€ | 12000 - 946,19 = 11 053,81€
+2e échéance | 11053,81 * 1% = 110,54 € | 1066,19 - 110,54 = 955,65 € | 11 053,81 - 955,65 = 10 098,17€
+3e échéance | 10098,17 * 1% = 100,98 € | 1066,19 - 100,98 = 965,20 € | 10 098,17 - 965,20 = 9132,96 €
+
+Moulinette de Calcul Exemple
+Capital restant Capital restant dû après
+Échéance dû capital à payer Intérêts Loyer payement
+1 12 000,00 946,19 120,00 1 066,19 11 053,81
+2 11 053,81 955,65 110,54 1 066,19 10 098,17
+3 10 098,17 965,20 100,98 1 066,19 9 132,93
+4 9 132,93 974,86 91,33 1 066,19 8 158,11
+5 8 158,11 984,60 81,58 1 066,19 7 173,50
+6 7 173,50 994,45 71,74 1 066,19 6 179,05
+7 6 179,05 1004,39 61,79 1 066,19 5 174,66
+8 5 174,66 1 014,44 51,75 1 066,19 4 160,22
+9 4 160,22 1 024,58 41,60 1 066,19 3 135,64
+10 3 135,64 1 034,83 31,36 1 066,19 2 100,81
+11 2 100,81 1 045,18 21,01 1 066,19 1 055,63
+12 1 055,63 1 055,63 10,56 1 066,19 0
+Échéance | Capital restant
+dû | capital à payer | Intérêts | Loyer | Capital restant dû après
+payement
+1 | 12 000,00 | 946,19 | 120,00 | 1 066,19 | 11 053,81
+2 | 11 053,81 | 955,65 | 110,54 | 1 066,19 | 10 098,17
+3 | 10 098,17 | 965,20 | 100,98 | 1 066,19 | 9 132,93
+4 | 9 132,93 | 974,86 | 91,33 | 1 066,19 | 8 158,11
+5 | 8 158,11 | 984,60 | 81,58 | 1 066,19 | 7 173,50
+6 | 7 173,50 | 994,45 | 71,74 | 1 066,19 | 6 179,05
+7 | 6 179,05 | 1004,39 | 61,79 | 1 066,19 | 5 174,66
+8 | 5 174,66 | 1 014,44 | 51,75 | 1 066,19 | 4 160,22
+9 | 4 160,22 | 1 024,58 | 41,60 | 1 066,19 | 3 135,64
+10 | 3 135,64 | 1 034,83 | 31,36 | 1 066,19 | 2 100,81
+11 | 2 100,81 | 1 045,18 | 21,01 | 1 066,19 | 1 055,63
+12 | 1 055,63 | 1 055,63 | 10,56 | 1 066,19 | 0
+
+Moulinette de Calcul Exercice
+No CRD Intérêt Échéance Mensualité
+1 22000 91.67 567.33 659
+2 21432.67 89.3 569.7 659
+Caractéristique du crédit 3 20862.97 86.93 572.07 659
+4 20290.9 84.55 574.45 659
+5 19716.44 82.15 576.85 659
+6 19139.6 79.75 579.25 659
+• Montant du crédit = 25000€ 7 18560.34 77.33 581.67 659
+8 17978.68 74.91 584.09 659
+• Durée = 36 mois 9 17394.59 72.48 586.52 659
+10 16808.07 70.03 588.97 659
+• Taux d’intérêt = 5% 11 16219.1 67.58 591.42 659
+12 15627.68 65.12 593.88 659
+• Apport = 3000€ 13 15033.8 62.64 596.36 659
+14 14437.44 60.16 598.84 659
+• Montant à financer = 22000€ 15 13838.59 57.66 601.34 659
+16 13237.25 55.16 603.84 659
+17 12633.41 52.64 606.36 659
+18 12027.05 50.11 608.89 659
+Données calculés
+19 11418.16 47.58 611.42 659
+20 10806.74 45.03 613.97 659
+• Montant échéance = 659, 36€
+21 10192.76 42.47 616.53 659
+22 9576.23 39.9 619.1 659
+• Taux périodique = 0,416667
+23 8957.14 37.32 621.68 659
+24 8335.46 34.73 624.27 659
+25 7711.19 32.13 626.87 659
+26 7084.32 29.52 629.48 659
+27 6454.84 26.9 632.1 659
+28 5822.73 24.26 634.74 659
+29 5187.99 21.62 637.38 659
+30 4550.61 18.96 640.04 659
+31 3910.57 16.29 642.71 659
+32 3267.86 13.62 645.38 659
+33 2622.48 10.93 648.07 659
+34 1974.41 8.23 650.77 659
+35 1323.63 5.52 653.48 659
+36 670.15 2.79 670.15 659
+CRD | Intérêt | Échéance
+22000 | 91.67 | 567.33
+21432.67 | 89.3 | 569.7
+20862.97 | 86.93 | 572.07
+20290.9 | 84.55 | 574.45
+19716.44 | 82.15 | 576.85
+19139.6 | 79.75 | 579.25
+18560.34 | 77.33 | 581.67
+17978.68 | 74.91 | 584.09
+17394.59 | 72.48 | 586.52
+16808.07 | 70.03 | 588.97
+16219.1 | 67.58 | 591.42
+15627.68 | 65.12 | 593.88
+15033.8 | 62.64 | 596.36
+14437.44 | 60.16 | 598.84
+13838.59 | 57.66 | 601.34
+13237.25 | 55.16 | 603.84
+12633.41 | 52.64 | 606.36
+12027.05 | 50.11 | 608.89
+11418.16 | 47.58 | 611.42
+10806.74 | 45.03 | 613.97
+10192.76 | 42.47 | 616.53
+9576.23 | 39.9 | 619.1
+8957.14 | 37.32 | 621.68
+8335.46 | 34.73 | 624.27
+7711.19 | 32.13 | 626.87
+7084.32 | 29.52 | 629.48
+6454.84 | 26.9 | 632.1
+5822.73 | 24.26 | 634.74
+5187.99 | 21.62 | 637.38
+4550.61 | 18.96 | 640.04
+3910.57 | 16.29 | 642.71
+3267.86 | 13.62 | 645.38
+2622.48 | 10.93 | 648.07
+1974.41 | 8.23 | 650.77
+1323.63 | 5.52 | 653.48
+670.15 | 2.79 | 670.15
+[Image: image_26_1.png] (Position: 522.9125883965739, 78.29138081414504)
+[Image: image_26_2.png] (Position: 575.3084080090739, 78.29138081414504)
+[Image: image_26_3.png] (Position: 668.917418959074, 78.29138081414504)
+[Image: image_26_4.png] (Position: 721.3174712090739, 78.29138081414504)
+[Image: image_26_5.png] (Position: 797.6319253340739, 78.29138081414504)
+
+

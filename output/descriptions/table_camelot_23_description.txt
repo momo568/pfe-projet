@@ -1,0 +1,17 @@
+Based on the extracted text, it appears that we have a partial entry from a table in a risk management document related to financial calculations. Specifically, it seems to be a line item describing a calculation involving capital and interest.
+
+Here's my attempt to decipher the information:
+
+**Column/Field:** The text doesn't explicitly mention the column or field names, but based on the content, I'll assume that "Capital" refers to some initial amount of money (capital) and "intr" likely represents interest. 
+
+**Calculation:** The calculation seems to be a simple arithmetic operation: the sum of "Capital" and "intr". This could indicate the total amount of funds available after considering both the initial capital and any accrued interest.
+
+**Description:** Below the calculation, it mentions "La somme des loyers-" which, in French, roughly translates to "The sum of rents-". The context suggests that this is a calculation related to financial metrics. The phrase "Montant finance" likely means "financial amount" or "amount of money".
+
+In summary, based on the extracted text:
+
+* The table entry describes a simple arithmetic operation involving capital and interest.
+* The result is the total sum of these two values (Capital + intr).
+* The description mentions financial metrics related to rental income (La somme des loyers-) but doesn't provide further details.
+
+Please note that without the complete table or additional context, it's challenging to provide a more detailed explanation.

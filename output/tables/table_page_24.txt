@@ -1,0 +1,19 @@
+Données du crédit | Valeur
+Montant du bien | 15 000,00
+Apport | 3 000,00
+Taux d'intérêt annuel | 12
+Durée | 12
+Périodicité (=1 si mois) | 1
+Données calculés | Valeur
+Taux périodique | 0,0100000
+Durée | 12
+Montant à financer | 12 000,00
+Loyer | 1066,19
+Somme des loyers (= loyer * durée) | 12659,88
+Agios – Coût - Intérêts | 659,88
+ | Intérêts | Capital Remboursé | Capital restant à remboursé
+1e échéance | Capital par le taux périodique soit:
+12000 * 1% = 120 € | Montant d'échéance moins les intérêts,
+soit : 1066,19 - 120 = 946,19€ | 12000 - 946,19 = 11 053,81€
+2e échéance | 11053,81 * 1% = 110,54 € | 1066,19 - 110,54 = 955,65 € | 11 053,81 - 955,65 = 10 098,17€
+3e échéance | 10098,17 * 1% = 100,98 € | 1066,19 - 100,98 = 965,20 € | 10 098,17 - 965,20 = 9132,96 €

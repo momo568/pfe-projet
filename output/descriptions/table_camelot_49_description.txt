@@ -1,0 +1,25 @@
+A fascinating risk management document! Based on the extracted text, I'll provide a detailed explanation of the two variables mentioned in the table:
+
+**Tirage**
+
+"Tirage" is French for "drawdown" or "utilization." In the context of risk management, Tirage represents the amount of funds used at a specific point in time (t). This variable likely measures the extent to which an organization has committed its resources to a particular project, investment, or activity.
+
+Think of it like this: Imagine you have a budget for a marketing campaign. At some point during the campaign, you've spent X amount of money on advertising and other expenses. That's your Tirage - the amount of funds you've "drawn down" from your overall budget to support the campaign.
+
+**Disponible**
+
+"Disponible" is French for "available" or "unutilized." In this context, Disponible represents the remaining uncommitted funds that are not yet utilized (e.g., not yet spent). This variable likely measures the organization's liquidity, showing how much money is still available to be used or invested.
+
+To illustrate: Returning to our marketing campaign example, let's say you started with a budget of $100,000 and have already spent $50,000 on advertising. Your Tirage would be $50,000 (the amount spent), while your Disponible would be $50,000 (the remaining uncommitted funds).
+
+**Relationship between Tirage and Disponible**
+
+The two variables are closely related in the sense that they reflect different aspects of an organization's financial situation. Tirage represents the actual usage of funds at a given point, while Disponible shows the available resources that can still be used or invested.
+
+In risk management terms, understanding these two variables is crucial for identifying potential risks and making informed decisions about resource allocation. By monitoring Tirage and Disponible, organizations can:
+
+1. Identify early warning signs of financial strain (high Tirage with low Disponible).
+2. Make informed investment decisions based on available resources.
+3. Develop strategies to manage risk and maintain a healthy cash flow.
+
+Overall, this table provides valuable insights into an organization's financial situation, helping managers make data-driven decisions to mitigate risks and achieve their goals.

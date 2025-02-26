@@ -1,0 +1,41 @@
+Révolving… Le calcul des Intérêts
+❑ Les intérêts ne sont calculés que sur le
+montant utilisé de la réserve en d’autres
+termes, sur L’ENCOURS.
+Solde
+0
+❑ Les montants varient tous les mois. 0
+1
+0
+❑ 2 méthodes de calculs sont disponibles: t
+i 0 e
+b
+3 c
+❖ Méthode des nombres = Intérêts calculés pour é
+n
+D t
+chaque tirage i d a
+500 é
+é 0
+h
+→ Problème en cas de changement de taux. r 0
+c
+C 3
+é
+❖ Méthode des dominos.
+’ l =
+❑ Nous distinguons: e
+d
+❖ Le traitement des arrêtés: calcule et 10 * 500 11 * 600 10 * 300 n
+i
+F
+facture agios et prestations. (A ECHOIR)
+❖ Le traitement des échéances: effectue la
+31/12 10/01 21/01 31/01
+facturation de l’échéance.
+(ECHU)
+
+
+	10 * 500
+
+

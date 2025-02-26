@@ -1,0 +1,17 @@
+Based on the provided text, it appears to be a section from a risk management document that defines and explains the concept of "Revolving" and its calculation.
+
+Here's a detailed explanation of the table:
+
+**Definition du Revolving**
+
+The first point defines what "Revolving" means. Unfortunately, the text does not provide a clear definition, but based on the context, it is likely that "Revolving" refers to a financial concept where a loan or credit facility is repaid periodically over time, rather than all at once.
+
+**Le Calcul des intéréts**
+
+The second point discusses the calculation of interest. This could refer to the process of calculating the interest rate on a revolving loan or credit facility. The interest rate may be determined by various factors such as market rates, prime lending rates, or other economic indicators.
+
+**Calcul des échéances**
+
+The third point talks about the calculation of deadlines or maturity dates. In the context of a revolving loan or credit facility, this could refer to the schedule for repaying principal and interest over time. The deadlines may be determined by various factors such as loan terms, payment frequencies (e.g., monthly), and the total outstanding balance.
+
+In summary, this table appears to provide an overview of how revolving loans or credit facilities are calculated, including the calculation of interest rates and maturity dates.

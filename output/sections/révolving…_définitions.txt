@@ -1,0 +1,32 @@
+Révolving… Définitions
+Crédit en Crédit
+compte permanant
+Crédit Compte
+renouvelable permanent
+Crédit revolving
+❑ Le crédit revolving est une réserve d’argent mise à la disposition d’un client
+❑ Le client est libre d’en disposer ou pas.
+❑ S’il l’utilise, il devra payer des échéances
+❑ A chaque fois qu’un client rembourse des sommes, il reconstitue la réserve autorisée.
+Révolving… Définitions
+Plafond Plafond
+= Autorisation de Découvert maximal
+2 000 €
+= Montant total autorisé
+Tirage
+= Utilisation à un instant t
+Disponible
+<= Plafond
+Utilisé
+= Encours des sommes utilisées et non e
+v
+r
+encore remboursées e
+s
+é
+= Ʃ Tirages - Ʃ Remboursements R
+Utilisé = Encours
+Disponible
+= Réserve d’argent non utilisée
+= Autorisation - Utilisé
+0
