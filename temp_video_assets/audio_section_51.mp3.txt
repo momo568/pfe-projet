@@ -1,0 +1,15 @@
+--- Page 53 ---. Révolving… Calcul des échéances
+ Les méthodes de calcul de l’échéance sont :
+. Montant Fixe
+. Pourcentage de l’encours
+. Pourcentage du plafond
+. Échéance en fonction de l’encours
+. Eléments de l’arrêté
+Ordre d’affectation entre les comptes :
+. Comptes facultatifs
+. Comptes par ordre de création : le principal puis les autres
+Eclatement des factures d’échéance. L’ordre d’affectation des montants d’échéance est
+. Agios
+. Prestations
+. Capital
+

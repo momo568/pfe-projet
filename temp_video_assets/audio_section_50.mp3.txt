@@ -1,0 +1,13 @@
+--- Page 52 ---.  Révolving… Le calcul des Intérêts
+Révolving… Les Taux
+Les méthodes de calcul possibles sont :
+. Taux fixe
+.Taux variable
+. Taux indexé début de période (Euribor 3M par exemple)
+.Taux indexé fin de période
+.Taux en fonction de l’encours
+.Mais pour rester simple sur du Revolving généralement que du Taux Fixe et peut-être Taux
+en fonction de l’encours
+.Taux Variable et Taux indexé début de période utilisé dans les cas de changement de taux
+d’usure fréquent
+

@@ -1,0 +1,11 @@
+--- Page 21 ---. Les Types d’amortissement d’un Crédit Bancaire
+Lorsqu'un différé de remboursement est total, il porte sur le capital et les intérêts.
+. Durant la période de différé, le client ne supporte aucune charge. Il commencera à rembourser le capital et
+à payer les intérêts à l’issue de la période de différé.
+. Lorsque le différé est total, l’emprunteur doit toutefois faire face aux intérêts intercalaires et à l’assurance
+décès invalidité.
+. D’une manière générale, l'emprunteur a la possibilité de rembourser par anticipation tout ou partie du
+montant du prêt restant dû.
+La banque réclame, dans ce cas de figure, des pénalités de remboursement anticipé (sauf si des dispositions
+différentes ont été prévues dans le contrat de prêt)
+

@@ -1,0 +1,105 @@
+import cv2
+import numpy as np
+import os
+from pdf2image import convert_from_path
+
+def create_directories(output_dir):
+    figures_dir = os.path.join(output_dir, "figures_extracted")
+    os.makedirs(figures_dir, exist_ok=True)
+    return figures_dir
+
+def merge_overlapping_rectangles(rectangles, margin=20):
+    if not rectangles:
+        return []
+    
+    rectangles = sorted(rectangles, key=lambda r: (r[1], r[0]))
+    merged = []
+    
+    for rect in rectangles:
+        x1, y1, w, h = rect
+        x2, y2 = x1 + w, y1 + h
+        x1, y1, x2, y2 = x1 - margin, y1 - margin, x2 + margin, y2 + margin
+
+        if not merged:
+            merged.append((x1, y1, x2, y2))
+            continue
+
+        mx1, my1, mx2, my2 = merged[-1]
+        if x1 <= mx2 and y1 <= my2:
+            merged[-1] = (min(x1, mx1), min(y1, my1), max(x2, mx2), max(y2, my2))
+        else:
+            merged.append((x1, y1, x2, y2))
+    
+    return merged
+
+def extract_figures_from_pdf(pdf_path, output_dir="output", margin=50):
+    figures_dir = create_directories(output_dir)
+    
+    print("🚀 Conversion du PDF en images...")
+    images = convert_from_path(pdf_path, dpi=400)
+    
+    figures = []
+    for page_num, img_pil in enumerate(images, start=1):
+        print(f"🔍 Traitement de la page {page_num}...")
+        img_np = np.array(img_pil)
+        gray = cv2.cvtColor(img_np, cv2.COLOR_RGB2GRAY)
+
+        # 📌 Amélioration du contraste et réduction du bruit
+        gray = cv2.GaussianBlur(gray, (3,3), 0)
+        gray = cv2.equalizeHist(gray)
+
+        # 📌 Détection des contours pour repérer les tableaux et figures
+        edges = cv2.Canny(gray, 50, 150)
+        contours, _ = cv2.findContours(edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+
+        detected_areas = [
+            cv2.boundingRect(contour) for contour in contours 
+            if cv2.boundingRect(contour)[2] > 400 and cv2.boundingRect(contour)[3] > 400  # 📌 Capturer uniquement les grandes structures
+        ]
+        
+        print(f"🔍 Nombre de zones détectées : {len(detected_areas)}")
+        
+        merged_areas = merge_overlapping_rectangles(detected_areas, margin)
+
+        for i, (x1, y1, x2, y2) in enumerate(merged_areas):
+            # 📌 Inclure le titre du tableau s'il est attaché en haut
+            y1 = max(0, y1 - 60)  # Étendre vers le haut pour inclure le titre
+            
+            # Redimensionner si le tableau est trop grand
+            max_height = img_pil.height * 0.95
+            if (y2 - y1) > max_height:
+                scale_factor = max_height / (y2 - y1)
+                new_width = int((x2 - x1) * scale_factor)
+                new_height = int((y2 - y1) * scale_factor)
+                x2 = x1 + new_width
+                y2 = y1 + new_height
+            
+            # Ajuster les coordonnées pour qu'elles restent dans l'image
+            x1, y1 = max(0, x1), max(0, y1)
+            x2, y2 = min(img_pil.width, x2), min(img_pil.height, y2)
+
+            if x2 > x1 and y2 > y1:
+                figure = img_pil.crop((x1, y1, x2, y2)).resize((x2 - x1, y2 - y1))
+                
+                if (x2 - x1) > 400 and (y2 - y1) > 400:
+                    figure_filename = f"page_{page_num}Figure{i + 1}.jpeg"
+                    figure_path = os.path.join(figures_dir, figure_filename)
+                    figure.save(figure_path, format="JPEG")
+                    figures.append(figure_path)
+                    print(f"✅ Figure sauvegardée : {figure_filename}")
+                else:
+                    print(f"⚠ Figure ignorée car trop petite : {x1, y1, x2, y2}")
+    
+    print(f"✅ Extraction terminée : {len(figures)} figures détectées.")
+    return figures
+
+def main():
+    pdf_path = r"F:\\app\\Downloads\\TW-Formation Métiers.pdf"
+    
+    print("🚀 Extraction des figures et diagrammes...")
+    figures = extract_figures_from_pdf(pdf_path)
+    
+    print("✅ Processus terminé ! Seules les figures et diagrammes uniques sont conservés.")
+
+if __name__ == "__main__":
+    main()

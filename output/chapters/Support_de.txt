@@ -1,0 +1,3356 @@
+SUPPORT DE FORMATION EKIP360–FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+et la destination flux
+NTOP NATL TYPL
+LA NATURE D’OPERATION
+EST LE LIEN
+QUI VA PERMETTRE
+A CHAQUE OPERATION DE GESTION D’AVOIR
+UNE TRADUCTION EN COMPTABILITE
+85 NTOP
+3
+SUPPORT DE FORMATION EKIP360–FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+et la destination flux
+NTOP NATL TYPL
+LA NATURE D’OPERATION
+EST LE LIEN
+QUI VA PERMETTRE
+A CHAQUE OPERATION DE GESTION D’AVOIR
+UNE TRADUCTION EN COMPTABILITE
+85 NTOP
+3		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+Les Principales Nature d’opérations
+FACE : Facture Client
+FFAP : Facture d’Appro
+MELO : Mise en Loyer
+DECA : Décaissement
+ENCA : Encaissement
+ODLE : OD de Lettrage
+4
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+Les Principales Nature d’opérations
+FACE : Facture Client
+FFAP : Facture d’Appro
+MELO : Mise en Loyer
+DECA : Décaissement
+ENCA : Encaissement
+ODLE : OD de Lettrage
+4		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+En fait dans EKIP, on distingue 5 Groupes de NTOP:
+➔On appelle cela des TYPES de FLUX
+On Distingue 5 Types de flux différents dans EKIP
+1-) Les Flux Externes 2-) Les Flux de Trésorerie
+3-) Les flux d’Opérations Divers 4-) Les flux de Stock
+5-) Les Flux d’Inventaire
+5
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+En fait dans EKIP, on distingue 5 Groupes de NTOP:
+➔On appelle cela des TYPES de FLUX
+On Distingue 5 Types de flux différents dans EKIP
+1-) Les Flux Externes 2-) Les Flux de Trésorerie
+3-) Les flux d’Opérations Divers 4-) Les flux de Stock
+5-) Les Flux d’Inventaire
+5		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+❑ Les Flux Externes
+❖ Factures Emises (FACE, FCIR, FCPE, FREP, FPAR…)
+❖ Factures Reçues (FFAP, FACD)
+❑ Les Flux de Trésorerie
+❖ Les Encaissements (ENCA)
+❖ Les Décaissements (DECA)
+❑ Les Flux d’Opérations Diverses
+❖ Toutes les OD (ODTP, ODLE, ODIR, ODPR, ODPE…)
+❑ Les Flux de Stock
+❖ Mise en Immo (MIMM)
+❖ Mise en Loyer (MELO)
+❖ Cessions (CESI, CSNI, CSVI…)
+❑ Les Flux d’Inventaire
+❖ Flux de régularisation de fin d’exercice
+6
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+❑ Les Flux Externes
+❖ Factures Emises (FACE, FCIR, FCPE, FREP, FPAR…)
+❖ Factures Reçues (FFAP, FACD)
+❑ Les Flux de Trésorerie
+❖ Les Encaissements (ENCA)
+❖ Les Décaissements (DECA)
+❑ Les Flux d’Opérations Diverses
+❖ Toutes les OD (ODTP, ODLE, ODIR, ODPR, ODPE…)
+❑ Les Flux de Stock
+❖ Mise en Immo (MIMM)
+❖ Mise en Loyer (MELO)
+❖ Cessions (CESI, CSNI, CSVI…)
+❑ Les Flux d’Inventaire
+❖ Flux de régularisation de fin d’exercice
+6		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+LA NTOP seule ne suffit pas à pouvoir affecter des flux de
+gestion dans des comptes.
+En effet sur une facture il y’a généralement plus d’une ligne
+On veut pouvoir avoir le détail des factures.
+,
+Pour la NTOP Facture Client FACE on veut pouvoir la décomposer pour connaître :
+La part qui vient des Loyers et
+La part qui vient des Prestations
+NATL
+8
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+LA NTOP seule ne suffit pas à pouvoir affecter des flux de
+gestion dans des comptes.
+En effet sur une facture il y’a généralement plus d’une ligne
+On veut pouvoir avoir le détail des factures.
+,
+Pour la NTOP Facture Client FACE on veut pouvoir la décomposer pour connaître :
+La part qui vient des Loyers et
+La part qui vient des Prestations
+NATL
+8		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+Double niveau
+NTOP
+NATL NATL NATL NATL NATL
+Double Niveau
+IMPOSE
+9
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+Double niveau
+NTOP
+NATL NATL NATL NATL NATL
+Double Niveau
+IMPOSE
+9		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+Double niveau
+FACE
+LOYE PRES COMM RBDG FRFS
+Double Niveau
+Encore insuffisant
+10
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+Double niveau
+FACE
+LOYE PRES COMM RBDG FRFS
+Double Niveau
+Encore insuffisant
+10		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+Double niveau Insuffisant
+NTOP / NATL
+On peut vouloir avoir une distinction des factures par catégorie
+d’affaire, par type de prestation, etc…
+Il FAUT UN NIVEAU SUPPLEMENTAIRE OU LE CLIENT AIT LE
+CHOIX
+TYPE DE LIGNE
+TYPL
+12
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+Double niveau Insuffisant
+NTOP / NATL
+On peut vouloir avoir une distinction des factures par catégorie
+d’affaire, par type de prestation, etc…
+Il FAUT UN NIVEAU SUPPLEMENTAIRE OU LE CLIENT AIT LE
+CHOIX
+TYPE DE LIGNE
+TYPL
+12		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+TRIPLET
+E
+NTOP
+S
+O
+P
+M
+I
+NATL NATL NATL NATL NATL
+E
+R
+B
+I
+L
+TYPL TYPL TYPL
+13
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+TRIPLET
+E
+NTOP
+S
+O
+P
+M
+I
+NATL NATL NATL NATL NATL
+E
+R
+B
+I
+L
+TYPL TYPL TYPL
+13		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+TRIPLET
+FACE
+E
+S
+O
+P
+M
+I
+LOYE PRES
+E
+R
+B
+I
+L
+ECHE LOYE CAP CHOM ADI PFIN
+14
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Le Triplet NTOP/NATL/TYPL Règles et La facturation exceptionnelle
+facturation des
+destination de flux principes client s de la
+fournisseur commissions
+et la destination flux facturation
+NTOP NATL TYPL
+TRIPLET
+FACE
+E
+S
+O
+P
+M
+I
+LOYE PRES
+E
+R
+B
+I
+L
+ECHE LOYE CAP CHOM ADI PFIN
+14		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+Pour créer un nouveau type de ligne:
+1
+2
+3
+16
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+Pour créer un nouveau type de ligne:
+1
+2
+3
+16		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+Code nature de ligne: types de loyer
+17
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+Code nature de ligne: types de loyer
+17		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+❑ Lien de validité du type de ligne « LOYE »
+Pour chaque type de ligne paramétré, EKIP permet de définir les liens de validité, C-a-d les conditions
+d’application ou d’utilisation de ce type de ligne dépend de ce paramétrage.
+Exemple : le Type de Loyer « LOYE » est utilisé pour la SG « 0003 » et les catégories d’affaire « LDLI»,
+« LFIX », etc….
+18
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+❑ Lien de validité du type de ligne « LOYE »
+Pour chaque type de ligne paramétré, EKIP permet de définir les liens de validité, C-a-d les conditions
+d’application ou d’utilisation de ce type de ligne dépend de ce paramétrage.
+Exemple : le Type de Loyer « LOYE » est utilisé pour la SG « 0003 » et les catégories d’affaire « LDLI»,
+« LFIX », etc….
+18		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+❑ Paramétrage des frais refacturable « REFA »
+EKIP donne la main au utilisateur de créer des types de frais qu’il souhaite afin qu’il puisse l’utiliser dans
+son montage;
+EKIP permet aussi aux utilisateurs de définir le mode de facturation de ces frais :
+➢ FP : Facturation ponctuelle, c’est-à-dire en une seule fois
+➢ FI : Facturation Indépendante, ces frais seront facturés indépendamment du loyer;
+19
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+❑ Paramétrage des frais refacturable « REFA »
+EKIP donne la main au utilisateur de créer des types de frais qu’il souhaite afin qu’il puisse l’utiliser dans
+son montage;
+EKIP permet aussi aux utilisateurs de définir le mode de facturation de ces frais :
+➢ FP : Facturation ponctuelle, c’est-à-dire en une seule fois
+➢ FI : Facturation Indépendante, ces frais seront facturés indépendamment du loyer;
+19		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+❑ Paramétrage des Type de prestation « PRES »
+❖ EKIP donne la main aux utilisateurs de créer des types de prestation qu’il souhaite afin qu’il puisse
+l’utiliser dans son montage.
+❖ EKIP permet aussi aux utilisateurs de définir le mode de facturation de ces frais :
+➢ FR : Facturation Répétitive,
+c’est-à-dire facturation
+avec l’échéancier de loyer
+➢ FI : Facturation
+Indépendante, ces frais
+seront facturés
+indépendamment du loyer
+➢ FP : Facturation
+ponctuelle, c’est-à-dire en
+une seule fois
+20
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+❑ Paramétrage des Type de prestation « PRES »
+❖ EKIP donne la main aux utilisateurs de créer des types de prestation qu’il souhaite afin qu’il puisse
+l’utiliser dans son montage.
+❖ EKIP permet aussi aux utilisateurs de définir le mode de facturation de ces frais :
+➢ FR : Facturation Répétitive,
+c’est-à-dire facturation
+avec l’échéancier de loyer
+➢ FI : Facturation
+Indépendante, ces frais
+seront facturés
+indépendamment du loyer
+➢ FP : Facturation
+ponctuelle, c’est-à-dire en
+une seule fois
+20		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+❑ Paramétrage des charges et débours « FACD »
+❖ EKIP donne la main aux utilisateurs de créer des types de charges qui seront facturés aux client et
+déboursées aux fournisseurs EKIP permet aussi aux utilisateurs de définir le mode de facturation
+de ces frais :
+➢ FR : Facturation
+Répétitive, c’est-à-dire
+facturation avec
+l’échéancier de loyer
+➢ FI : Facturation
+Indépendante, ces frais
+seront facturés
+indépendamment du
+loyer;
+➢ FP : Facturation
+ponctuelle, c’est-à-dire
+en une seule fois
+21
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Param. Types de Lignes facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type
+NTOP NATL TYPL
+Ligne
+❑ Paramétrage des charges et débours « FACD »
+❖ EKIP donne la main aux utilisateurs de créer des types de charges qui seront facturés aux client et
+déboursées aux fournisseurs EKIP permet aussi aux utilisateurs de définir le mode de facturation
+de ces frais :
+➢ FR : Facturation
+Répétitive, c’est-à-dire
+facturation avec
+l’échéancier de loyer
+➢ FI : Facturation
+Indépendante, ces frais
+seront facturés
+indépendamment du
+loyer;
+➢ FP : Facturation
+ponctuelle, c’est-à-dire
+en une seule fois
+21		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Destination du Flux facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type Destination
+NTOP NATL TYPL
+Ligne Flux
+❑Destination des flux pour les factures clients (FACE)
+EC : Echéancier
+FR : Facture Répétitive
+FP : Facture Ponctuelle
+FI : Facture Indépendant
+❑Destinations possibles pour les factures fournisseurs (FACD)
+SD : Sans Destination
+RF : Refacturable vers des FACE/REFA
+22
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TYPL et La Facturation
+Règles et La facturation exceptionnelle
+Destination du Flux facturation des
+destination de flux principes client s de la
+fournisseur commissions
+facturation
+Param. Type Destination
+NTOP NATL TYPL
+Ligne Flux
+❑Destination des flux pour les factures clients (FACE)
+EC : Echéancier
+FR : Facture Répétitive
+FP : Facture Ponctuelle
+FI : Facture Indépendant
+❑Destinations possibles pour les factures fournisseurs (FACD)
+SD : Sans Destination
+RF : Refacturable vers des FACE/REFA
+22		NTOP/NATL/TYPL et
+destination de flux	Règles et
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+Outre la facturation client, trois types de traitement sont possibles :
+❖ Cas des participants,
+❖ Cas des fournisseurs de prestations,
+❖ Cas des apporteurs d'affaires/contre-garants
+❑ Cas des "participants"
+Ce sont en général des tiers auxquels est facturée une fraction des échéances de l'affaire par le biais
+d'un échéancier spécifique.
+Exemple : un constructeur automobile, dans le cadre d'une offre promotionnelle, accepte de
+prendre à sa charge le manque à gagner résultant de l'application d’un « taux d'intérêt zéro »
+pendant un an, dans le cadre d'un prêt consenti à l'acquéreur d'un modèle de sa gamme.
+L'établissement financier accordant le financement facturera au constructeur l'écart de taux
+résultant de l'application du taux promotionnel : dans ce schéma, le constructeur aura un rôle de
+« participant ».
+24
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+Outre la facturation client, trois types de traitement sont possibles :
+❖ Cas des participants,
+❖ Cas des fournisseurs de prestations,
+❖ Cas des apporteurs d'affaires/contre-garants
+❑ Cas des "participants"
+Ce sont en général des tiers auxquels est facturée une fraction des échéances de l'affaire par le biais
+d'un échéancier spécifique.
+Exemple : un constructeur automobile, dans le cadre d'une offre promotionnelle, accepte de
+prendre à sa charge le manque à gagner résultant de l'application d’un « taux d'intérêt zéro »
+pendant un an, dans le cadre d'un prêt consenti à l'acquéreur d'un modèle de sa gamme.
+L'établissement financier accordant le financement facturera au constructeur l'écart de taux
+résultant de l'application du taux promotionnel : dans ce schéma, le constructeur aura un rôle de
+« participant ».
+24		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Cas du fournisseur de prestations
+Celui-ci établit une facture à la Société de gestion ; le règlement fournisseur peut être également émis
+de manière automatique.
+❑ Cas des apporteurs d'affaires/contre-garants
+❖ Les apporteurs d'affaires et les contre-garants perçoivent une rémunération, sous forme de
+commissions généralement virées automatiquement
+❖ Le traitement de ces commissions est géré intégralement par Ekip.
+25
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Cas du fournisseur de prestations
+Celui-ci établit une facture à la Société de gestion ; le règlement fournisseur peut être également émis
+de manière automatique.
+❑ Cas des apporteurs d'affaires/contre-garants
+❖ Les apporteurs d'affaires et les contre-garants perçoivent une rémunération, sous forme de
+commissions généralement virées automatiquement
+❖ Le traitement de ces commissions est géré intégralement par Ekip.
+25		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Le système peut gérer conjointement ou parallèlement la facturation :
+❖ Des échéances financières,
+❖ De toutes autres charges périodiques liées à l'affaire,
+❖ Des charges indépendantes des échéances,
+❖ Des charges périodiques devant être facturées séparément.
+❖ Des charges occasionnelles peuvent être facturées manuellement ou au travers de
+la Gestion Administrative,
+➢ Des "événements" de la G.A. pouvant générer des demandes de traitement
+➢ Ces charges génèreront automatiquement des flux prévisionnels
+➢ En fonction de la destination du flux prévisionnel, elles seront facturées en même temps que
+les échéances périodiques (destination = FP) ou de manière indépendante (destination = FI).
+26
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Le système peut gérer conjointement ou parallèlement la facturation :
+❖ Des échéances financières,
+❖ De toutes autres charges périodiques liées à l'affaire,
+❖ Des charges indépendantes des échéances,
+❖ Des charges périodiques devant être facturées séparément.
+❖ Des charges occasionnelles peuvent être facturées manuellement ou au travers de
+la Gestion Administrative,
+➢ Des "événements" de la G.A. pouvant générer des demandes de traitement
+➢ Ces charges génèreront automatiquement des flux prévisionnels
+➢ En fonction de la destination du flux prévisionnel, elles seront facturées en même temps que
+les échéances périodiques (destination = FP) ou de manière indépendante (destination = FI).
+26		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Calculs à effectuer préalablement pour mettre à jour l'échéancier financier
+❖ Les échéances financières sont déterminées au moment de la MEP, mais le calcul peut
+être revu lors de la facturation (Cas des taux d'intérêts référencés, quotités révisables
+selon application de jeux d'indices, ...).
+❖ Préalablement à la facturation relative à une période donnée, l'échéancier prévisionnel
+établi pour ces affaires doit donc être recalculé pour prendre en compte les nouvelles
+valeurs des variables de la période.
+❖ Si ces traitements ne seront pas lancer, la facturation se fera sur la base de l'échéancier
+prévisionnel déterminé lors de la mise en production de l'affaire.
+❖ Taux variables
+➢ Dans le cadre d'une simulation, on peut prévoir des conditions financières en taux variable
+➢ Préalablement à la facturation d'une échéance, il sera nécessaire de calculer le montant
+résultant de l'application de la valeur du taux révisé.
+27
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Calculs à effectuer préalablement pour mettre à jour l'échéancier financier
+❖ Les échéances financières sont déterminées au moment de la MEP, mais le calcul peut
+être revu lors de la facturation (Cas des taux d'intérêts référencés, quotités révisables
+selon application de jeux d'indices, ...).
+❖ Préalablement à la facturation relative à une période donnée, l'échéancier prévisionnel
+établi pour ces affaires doit donc être recalculé pour prendre en compte les nouvelles
+valeurs des variables de la période.
+❖ Si ces traitements ne seront pas lancer, la facturation se fera sur la base de l'échéancier
+prévisionnel déterminé lors de la mise en production de l'affaire.
+❖ Taux variables
+➢ Dans le cadre d'une simulation, on peut prévoir des conditions financières en taux variable
+➢ Préalablement à la facturation d'une échéance, il sera nécessaire de calculer le montant
+résultant de l'application de la valeur du taux révisé.
+27		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❖ Préfinancement
+➢ Dans le montage de certaines affaires, il peut y avoir un décalage entre le règlement
+d'un fournisseur et le début des échéances client.
+➢ Par exemple
+✓ Si l'affaire finance plusieurs matériels avec des dates de livraison différentes
+(échelonnées).
+✓ Dans ce cas, la société de gestion peut souhaiter facturer au client, des intérêts sur les
+sommes déboursées.
+➔ Ces intérêts sont appelés pré-loyers :
+➢ Avant facturation, ces intérêts doivent faire l'objet d'un calcul de l'assiette
+➢ Sur la base de l’assiette recalculée, ces intérêts sont ensuite calculés.
+➢ Il existe dans EKIP deux fonctions pour lancer ces calcules :
+✓ PRLASSECH : calcul de l’assiette
+✓ PRLINTECH : permet le calcul des intérêts.
+28
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❖ Préfinancement
+➢ Dans le montage de certaines affaires, il peut y avoir un décalage entre le règlement
+d'un fournisseur et le début des échéances client.
+➢ Par exemple
+✓ Si l'affaire finance plusieurs matériels avec des dates de livraison différentes
+(échelonnées).
+✓ Dans ce cas, la société de gestion peut souhaiter facturer au client, des intérêts sur les
+sommes déboursées.
+➔ Ces intérêts sont appelés pré-loyers :
+➢ Avant facturation, ces intérêts doivent faire l'objet d'un calcul de l'assiette
+➢ Sur la base de l’assiette recalculée, ces intérêts sont ensuite calculés.
+➢ Il existe dans EKIP deux fonctions pour lancer ces calcules :
+✓ PRLASSECH : calcul de l’assiette
+✓ PRLINTECH : permet le calcul des intérêts.
+28		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Le système peut gérer conjointement ou parallèlement la facturation :
+❖ Des échéances financières,
+❖ De toutes autres charges périodiques liées à l'affaire,
+❖ Des charges indépendantes des échéances,
+❖ Des charges périodiques devant être facturées séparément.
+❖ Des charges occasionnelles peuvent être facturées manuellement ou au travers de la
+Gestion Administrative,
+➢ Des "événements" de la G.A. pouvant générer des demandes de traitement
+➢ Ces charges génèreront automatiquement des flux prévisionnels
+➢ En fonction de la destination du flux prévisionnel, elles seront facturées en même temps que
+les échéances périodiques (destination = FP) ou de manière indépendante (destination = FI).
+29
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Le système peut gérer conjointement ou parallèlement la facturation :
+❖ Des échéances financières,
+❖ De toutes autres charges périodiques liées à l'affaire,
+❖ Des charges indépendantes des échéances,
+❖ Des charges périodiques devant être facturées séparément.
+❖ Des charges occasionnelles peuvent être facturées manuellement ou au travers de la
+Gestion Administrative,
+➢ Des "événements" de la G.A. pouvant générer des demandes de traitement
+➢ Ces charges génèreront automatiquement des flux prévisionnels
+➢ En fonction de la destination du flux prévisionnel, elles seront facturées en même temps que
+les échéances périodiques (destination = FP) ou de manière indépendante (destination = FI).
+29		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Calculs à effectuer préalablement pour mettre à jour l'échéancier financier
+❖ Les échéances financières sont déterminées au moment de la MEP, mais le calcul
+peut être revu lors de la facturation (Cas des taux d'intérêts référencés, quotités
+révisables selon application de jeux d'indices, ...).
+❖ Préalablement à la facturation relative à une période donnée, l'échéancier
+prévisionnel établi pour ces affaires doit donc être recalculé pour prendre en compte
+les nouvelles valeurs des variables de la période.
+❖ Si ces traitements ne seront pas lancer, la facturation se fera sur la base de
+l'échéancier prévisionnel déterminé lors de la mise en production de l'affaire.
+30
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Calculs à effectuer préalablement pour mettre à jour l'échéancier financier
+❖ Les échéances financières sont déterminées au moment de la MEP, mais le calcul
+peut être revu lors de la facturation (Cas des taux d'intérêts référencés, quotités
+révisables selon application de jeux d'indices, ...).
+❖ Préalablement à la facturation relative à une période donnée, l'échéancier
+prévisionnel établi pour ces affaires doit donc être recalculé pour prendre en compte
+les nouvelles valeurs des variables de la période.
+❖ Si ces traitements ne seront pas lancer, la facturation se fera sur la base de
+l'échéancier prévisionnel déterminé lors de la mise en production de l'affaire.
+30		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ PRLASSECH : Alimentation des comptes de pré-loyer par affaire (calcul de l’assiette)
+31
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ PRLASSECH : Alimentation des comptes de pré-loyer par affaire (calcul de l’assiette)
+31		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ PRLINTECH : Calcul des intérêts sur le compte de pré-loyer client par affaire
+32
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ PRLINTECH : Calcul des intérêts sur le compte de pré-loyer client par affaire
+32		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ CALTAUXVAR : Calcul de la variation des intérêts des échéances prenant en
+compte des taux variables
+33
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ CALTAUXVAR : Calcul de la variation des intérêts des échéances prenant en
+compte des taux variables
+33		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Indexation
+❖ Certaines simulations financières peuvent comporter des échéances soumises à
+indexation.
+❖ A la facturation d'une échéance, il sera nécessaire de calculer le montant résultant de
+l'application de l'indice de révision.
+indexation par société
+34
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPLR ègles & La Facturation Les étapes
+La facturation
+Règles & Principes et destination de facturation des exceptionnelles
+principes client
+flux fournisseur commissions de la facturation
+❑ Indexation
+❖ Certaines simulations financières peuvent comporter des échéances soumises à
+indexation.
+❖ A la facturation d'une échéance, il sera nécessaire de calculer le montant résultant de
+l'application de l'indice de révision.
+indexation par société
+34		NTOP/NATL/TY
+et destination
+flux	PLR ègles &
+de
+principes	La facturation
+client	La
+facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION Règles et
+Les étapes
+NOTP/NATL/TYPL et La facturation Facturation des
+La facturation client exceptionnelles de
+Destination des FLUX fournisseur commissions
+Règles & Principes principe la facturation
+❖ Il est également possible de lancer le calcul résultant du jeu de l'indexation pour une
+affaire spécifique.
+Dans le domaine financier, la plupart des
+taux variables sont indexés sur l'EURIBOR,
+35
+EKIP360 –FACTURATION
+Principes	NOTP/NATL/TYPL et
+Destination des FLUX	Règles et
+principe	La facturation clien	La facturation
+t
+fournisseur	Facturation des
+commissions	Les étapes
+exceptionnelles de
+la facturation
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Règles de gestion appliquées :
+Dans le cadre du traitement de la facturation des échéances périodiques d'une affaire,
+❖ Le système sélectionne toutes les échéances périodiques de tous les éléments financiers de
+l'affaire présentant une date d'échéance inférieure ou égale à la date de facturation saisie dans
+la boîte de dialogue.
+❖ La date de facturation peut donc être différente de la date d'échéance (qui est celle du calcul
+actuariel qui a déterminé l'échéancier).
+❖ Le système sélectionne tous les flux prévisionnels ayant pour destination "FR" (Facture Répétitive)
+ou "FP" (Facture Ponctuelle).
+❖ À noter, les flux ponctuels des affaires arrivées à terme doivent être facturés indépendamment
+des échéances périodiques, car elles ne seront pas prises en comptes dans la facturation
+quotidienne
+❖ Le système examine l'indicateur "pool", afin de repérer si une (ou plusieurs) quote-part de
+partenaire est à calculer.
+❖ Les échéances périodiques sélectionnées sont triées par : date d'échéance, affaire, indicateur de
+flux de gestion, identifiant interne de l'élément financier.
+37
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Règles de gestion appliquées :
+Dans le cadre du traitement de la facturation des échéances périodiques d'une affaire,
+❖ Le système sélectionne toutes les échéances périodiques de tous les éléments financiers de
+l'affaire présentant une date d'échéance inférieure ou égale à la date de facturation saisie dans
+la boîte de dialogue.
+❖ La date de facturation peut donc être différente de la date d'échéance (qui est celle du calcul
+actuariel qui a déterminé l'échéancier).
+❖ Le système sélectionne tous les flux prévisionnels ayant pour destination "FR" (Facture Répétitive)
+ou "FP" (Facture Ponctuelle).
+❖ À noter, les flux ponctuels des affaires arrivées à terme doivent être facturés indépendamment
+des échéances périodiques, car elles ne seront pas prises en comptes dans la facturation
+quotidienne
+❖ Le système examine l'indicateur "pool", afin de repérer si une (ou plusieurs) quote-part de
+partenaire est à calculer.
+❖ Les échéances périodiques sélectionnées sont triées par : date d'échéance, affaire, indicateur de
+flux de gestion, identifiant interne de l'élément financier.
+37		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ Après facturation, les échéances traitées sont marquées de telle sorte qu'il ne soit plus possible de
+les refacturer.
+❖ Si le code d'exigibilité n'est pas défini au niveau de l'affaire
+➢ c'est celui du client qui est pris en compte ;
+➢ Sinon, c'est celui du Site qui est pris en compte.
+A partir du menu principal choisir dans l’onglet « Traitement »
+Gestion / Facturation / Facturer les clients / Fact. un contrat
+Complétez les paramètres du
+batch puis lancez le traitement.
+38
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ Après facturation, les échéances traitées sont marquées de telle sorte qu'il ne soit plus possible de
+les refacturer.
+❖ Si le code d'exigibilité n'est pas défini au niveau de l'affaire
+➢ c'est celui du client qui est pris en compte ;
+➢ Sinon, c'est celui du Site qui est pris en compte.
+A partir du menu principal choisir dans l’onglet « Traitement »
+Gestion / Facturation / Facturer les clients / Fact. un contrat
+Complétez les paramètres du
+batch puis lancez le traitement.
+38		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ Il est possible de facturer une échéance à partir de l’écran synthèse du contrat
+C’est la date des
+Sélection des échéances dont la date factures qui seront
+d’échéance <= date de facturation générées
+39
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ Il est possible de facturer une échéance à partir de l’écran synthèse du contrat
+C’est la date des
+Sélection des échéances dont la date factures qui seront
+d’échéance <= date de facturation générées
+39		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+Le compte rendu de facturation s’affiche.
+40
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+Le compte rendu de facturation s’affiche.
+40		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Consultation des factures générées à partir de l’échéancier
+❖ Le tableau de facturation d'une affaire est consultable
+❖ Il est constitué des échéances de remboursement et de toutes les prestations et
+redevances périodiques qui sont à facturer en même temps.
+41
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Consultation des factures générées à partir de l’échéancier
+❖ Le tableau de facturation d'une affaire est consultable
+❖ Il est constitué des échéances de remboursement et de toutes les prestations et
+redevances périodiques qui sont à facturer en même temps.
+41		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ En cliquant sur le numéro de facture
+On aura le détail de la facture générée
+42
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ En cliquant sur le numéro de facture
+On aura le détail de la facture générée
+42		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Consultation des factures générées à partir du compte contrat/client
+43
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Consultation des factures générées à partir du compte contrat/client
+43		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Consultation des factures générées à partir du compte contrat/client
+44
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation des échéances et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Consultation des factures générées à partir du compte contrat/client
+44		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Contrôle Facturation et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Le contrôle de facturation Client :
+❖ Après lancement du traitement de facturation, nous devons vérifier le lot de
+facturation généré
+❖ Si le flag « Erreurs » est coché, certaines affaires ne sont pas prises en compte dans la
+facturation, elles présentent des erreurs.
+Liste des lots
+de facturation
+❑ Le contrôle de facturation Participants :
+❖ L’écran de consultation des lots de facturation concernant les tiers participants présente la
+même ergonomie que celle des lots de facturation clients. Accès par le menu principal
+« Facturation participants ».
+46
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Contrôle Facturation et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Le contrôle de facturation Client :
+❖ Après lancement du traitement de facturation, nous devons vérifier le lot de
+facturation généré
+❖ Si le flag « Erreurs » est coché, certaines affaires ne sont pas prises en compte dans la
+facturation, elles présentent des erreurs.
+Liste des lots
+de facturation
+❑ Le contrôle de facturation Participants :
+❖ L’écran de consultation des lots de facturation concernant les tiers participants présente la
+même ergonomie que celle des lots de facturation clients. Accès par le menu principal
+« Facturation participants ».
+46		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Contrôle Facturation et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+47
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Contrôle Facturation et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+47		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Règles de gestion appliquées :
+❖ Le système cherche tous les flux prévisionnels dont la destination est "FI" (Facture
+Indépendante) ou "FP" (Facture Ponctuelle, pour les affaires arrivées à terme).
+❖ Le flux prévisionnel est attaché à l'affaire (et non à une échéance périodique de
+l'échéancier).
+❖ Les données de facturation peuvent donc être différentes de celles concernant les
+échéances périodiques et avoir leur propre mode et date de paiement, tiers facturé et
+tiers payeur ;
+❖ Après facturation, les flux traités seront marqués de telle sorte qu'il soit impossible de
+les facturer une deuxième fois
+❖ En matière de méthode d'exigibilité, les règles sont les mêmes que celles concernant
+la facturation des échéances périodiques.
+4 dialogues sont possibles pour lancer le traitement de la facturation hors échéances
+49
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Règles de gestion appliquées :
+❖ Le système cherche tous les flux prévisionnels dont la destination est "FI" (Facture
+Indépendante) ou "FP" (Facture Ponctuelle, pour les affaires arrivées à terme).
+❖ Le flux prévisionnel est attaché à l'affaire (et non à une échéance périodique de
+l'échéancier).
+❖ Les données de facturation peuvent donc être différentes de celles concernant les
+échéances périodiques et avoir leur propre mode et date de paiement, tiers facturé et
+tiers payeur ;
+❖ Après facturation, les flux traités seront marqués de telle sorte qu'il soit impossible de
+les facturer une deuxième fois
+❖ En matière de méthode d'exigibilité, les règles sont les mêmes que celles concernant
+la facturation des échéances périodiques.
+4 dialogues sont possibles pour lancer le traitement de la facturation hors échéances
+49		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances par Produit Financier
+❖ Pour un ou plusieurs produits financiers,
+❖ A une date de facturation donnée :
+❖ Seront sélectionnés les flux clients dont la date d'échéance est antérieure ou égale à la date de
+facturation saisie dans le dialogue, et compte tenu de la période d'anticipation.
+❖ La date d'exigibilité ne peut être postérieure à celle de la facture : si tel était le cas, la date
+d'exigibilité serait forcée et alignée sur la date de facture.
+50
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances par Produit Financier
+❖ Pour un ou plusieurs produits financiers,
+❖ A une date de facturation donnée :
+❖ Seront sélectionnés les flux clients dont la date d'échéance est antérieure ou égale à la date de
+facturation saisie dans le dialogue, et compte tenu de la période d'anticipation.
+❖ La date d'exigibilité ne peut être postérieure à celle de la facture : si tel était le cas, la date
+d'exigibilité serait forcée et alignée sur la date de facture.
+50		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances d’une affaire donnée
+❖ Pour une affaire,
+❖ A une date de facturation donnée :
+❖ Seront sélectionnés les flux de l’affaire dont la date d'échéance est antérieure ou égale à la date
+de facturation saisie dans le dialogue, et compte tenu de la période d'anticipation.
+51
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances d’une affaire donnée
+❖ Pour une affaire,
+❖ A une date de facturation donnée :
+❖ Seront sélectionnés les flux de l’affaire dont la date d'échéance est antérieure ou égale à la date
+de facturation saisie dans le dialogue, et compte tenu de la période d'anticipation.
+51		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+A partir de l’écran synthèse du contrat ,
+Action sur contrat LLD/Facturation/Facturation indépendante du contrat
+52
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+A partir de l’écran synthèse du contrat ,
+Action sur contrat LLD/Facturation/Facturation indépendante du contrat
+52		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+Complétez les paramètres du batch puis lancez le traitement.
+Compte-rendu du traitement s’affiche
+53
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+Complétez les paramètres du batch puis lancez le traitement.
+Compte-rendu du traitement s’affiche
+53		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances d’un client
+❖ Pour une liste de produits financiers
+❖ Pour un Client,
+❖ A une date de facturation donnée :
+❖ Seront sélectionnés les flux du client relatifs aux produits financiers saisis et dont la date
+d'échéance est antérieure ou égale à la date de facturation saisie dans le dialogue, et compte
+tenu de la période d'anticipation.
+54
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances d’un client
+❖ Pour une liste de produits financiers
+❖ Pour un Client,
+❖ A une date de facturation donnée :
+❖ Seront sélectionnés les flux du client relatifs aux produits financiers saisis et dont la date
+d'échéance est antérieure ou égale à la date de facturation saisie dans le dialogue, et compte
+tenu de la période d'anticipation.
+54		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances par Produit Financier et par Réseau
+❖ Pour une liste de produits financiers
+❖ Pour une liste de réseaux
+❖ A une date de facturation donnée :
+❖ Seront sélectionnés les flux relatifs au produits financiers et aux réseaux rentrées en paramètres
+et dont la date d'échéance est antérieure ou égale à la date de facturation saisie dans le dialogue,
+et compte tenu de la période d'anticipation.
+55
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances par Produit Financier et par Réseau
+❖ Pour une liste de produits financiers
+❖ Pour une liste de réseaux
+❖ A une date de facturation donnée :
+❖ Seront sélectionnés les flux relatifs au produits financiers et aux réseaux rentrées en paramètres
+et dont la date d'échéance est antérieure ou égale à la date de facturation saisie dans le dialogue,
+et compte tenu de la période d'anticipation.
+55		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances par évènement GA
+❖ Dans le cadre de la Gestion Administrative, des demandes de traitements peuvent être
+liées à des événements :
+❖ Le déclenchement d'un événement peut poster une demande de traitement.
+Exemple :
+❖ La réalisation de l'événement "Modification de l'adresse du client" génère la demande
+de traitement DEMFCTCLIE : "Emettre une facture client", afin de répercuter sur ce
+dernier des frais administratifs.
+❖ Lors de l'exécution du batch de traitement approprié, TRTDEMCLIE, le système
+recherche toutes les demandes de traitement dont la fonction est DEMFCTCLIE et
+dont le statut est "ATRA" (à traiter).
+❖ Conséquences de l'exécution du traitement :
+➢ Des flux prévisionnels sont créés.
+➢ Ils seront facturés en même temps que les échéances périodiques ou de manière
+indépendante, selon la destination du flux.
+56
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Hors Echéance et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation hors échéances par évènement GA
+❖ Dans le cadre de la Gestion Administrative, des demandes de traitements peuvent être
+liées à des événements :
+❖ Le déclenchement d'un événement peut poster une demande de traitement.
+Exemple :
+❖ La réalisation de l'événement "Modification de l'adresse du client" génère la demande
+de traitement DEMFCTCLIE : "Emettre une facture client", afin de répercuter sur ce
+dernier des frais administratifs.
+❖ Lors de l'exécution du batch de traitement approprié, TRTDEMCLIE, le système
+recherche toutes les demandes de traitement dont la fonction est DEMFCTCLIE et
+dont le statut est "ATRA" (à traiter).
+❖ Conséquences de l'exécution du traitement :
+➢ Des flux prévisionnels sont créés.
+➢ Ils seront facturés en même temps que les échéances périodiques ou de manière
+indépendante, selon la destination du flux.
+56		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation Supplémentaire ou Avoirs
+❖ Au cours de la vie d'une affaire, la Société de gestion peut vouloir :
+➢ facturer des charges concernant des tiers qui n'ont pas encore de lien avec l'affaire ;
+➢ Elle peut également être amenée à émettre une facture d'avoir à un client qui ne correspond
+pas à un avoir sur une facture déjà émise.
+❖ EKIP permet de traiter ces deux types de charges dont les processus de saisie sont
+similaires, un avoir pouvant s'analyser comme une "charge négative".
+❖ Les données saisies seront transférées dans les flux prévisionnels et, selon la
+destination du type de ligne
+❖ Un écran de « Saisie des frais supplémentaires » permet d’introduire ces types frais;
+58
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation Supplémentaire ou Avoirs
+❖ Au cours de la vie d'une affaire, la Société de gestion peut vouloir :
+➢ facturer des charges concernant des tiers qui n'ont pas encore de lien avec l'affaire ;
+➢ Elle peut également être amenée à émettre une facture d'avoir à un client qui ne correspond
+pas à un avoir sur une facture déjà émise.
+❖ EKIP permet de traiter ces deux types de charges dont les processus de saisie sont
+similaires, un avoir pouvant s'analyser comme une "charge négative".
+❖ Les données saisies seront transférées dans les flux prévisionnels et, selon la
+destination du type de ligne
+❖ Un écran de « Saisie des frais supplémentaires » permet d’introduire ces types frais;
+58		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+59
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+59		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ Ces flux seront facturés avec :
+➢ les échéances (Facturation d'échéances
+périodiques)
+➢ ou de manière indépendante
+60
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ Ces flux seront facturés avec :
+➢ les échéances (Facturation d'échéances
+périodiques)
+➢ ou de manière indépendante
+60		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation des intérêts de refinancement
+Après calcul des flux relatifs aux intérêts de préfinancement :
+❖ Les factures correspondantes peuvent être générées par des traitement batch qui permettent la
+facturation des pré-loyers dans ou hors échéancier.
+❖ L’écran suivant montre le lancement du batch de facturation pour une affaire donnée
+(FCTPRLAFF).
+❖ La fonction FCTHORPRLE lance le même batch hors échéancier.
+61
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❑ Facturation des intérêts de refinancement
+Après calcul des flux relatifs aux intérêts de préfinancement :
+❖ Les factures correspondantes peuvent être générées par des traitement batch qui permettent la
+facturation des pré-loyers dans ou hors échéancier.
+❖ L’écran suivant montre le lancement du batch de facturation pour une affaire donnée
+(FCTPRLAFF).
+❖ La fonction FCTHORPRLE lance le même batch hors échéancier.
+61		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ De la même manière, la fonction FCTPRLAFF lance le batch de facturation pour un ensemble
+de produits financiers et de réseaux,
+❖ La fonction FCTHORPRLG hors échéancier.
+62
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYPL Facturation Facturation Les étapes
+Règles et Facturation
+Facturation Supplémentaire et destination de des exceptionnelles
+principes client fournisseur
+flux commissions de la facturation
+Facturation Contrôle Facturation Facturation
+des échéances Facturation Hors échéance Supplémentaire
+❖ De la même manière, la fonction FCTPRLAFF lance le batch de facturation pour un ensemble
+de produits financiers et de réseaux,
+❖ La fonction FCTHORPRLG hors échéancier.
+62		NTOP/NATL/TY
+et destination d
+flux	PL
+Règles et
+e
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelles
+de la facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Une saisie manuelle de facture fournisseur permet d'insérer dans EKIP l'image d'une
+facture reçue d'un fournisseur de services afin d'en permettre le règlement.
+Saisie les données
+obligatoires et sauvegarder
+64
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Une saisie manuelle de facture fournisseur permet d'insérer dans EKIP l'image d'une
+facture reçue d'un fournisseur de services afin d'en permettre le règlement.
+Saisie les données
+obligatoires et sauvegarder
+64		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Une telle saisie peut induire – après validation – l'émission :
+❖ De flux prévisionnels qui pourront être ensuite traités dans le cadre d'une facturation client,
+❖ De flux prévisionnels (suppléments de flux ou avoirs) pour compenser la différence entre le
+montant facturé au client et le montant payé au fournisseur par la Société de gestion.
+65
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Une telle saisie peut induire – après validation – l'émission :
+❖ De flux prévisionnels qui pourront être ensuite traités dans le cadre d'une facturation client,
+❖ De flux prévisionnels (suppléments de flux ou avoirs) pour compenser la différence entre le
+montant facturé au client et le montant payé au fournisseur par la Société de gestion.
+65		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Refacturation au client et flux d'ajustement clients
+❖ Pour qu'une refacturation au client soit possible, les conditions suivantes doivent être
+réunies :
+➢ Existence d’un type de ligne « Refacturation de charges – client » (destination du flux « FI »
+ou « FP ») ;
+➢ Existence d’un type de ligne « Refacturation de charges – fournisseur » dont la destination
+du flux est « RF » et induisant le type de ligne défini ci-dessus.
+❖ Les types de ligne fournisseur ayant « RF » comme destination de flux peuvent être
+sélectionnés lors de la saisie de la facture fournisseur
+➢ ils induiront automatiquement les flux prévisionnels pour la facturation client.
+❖ Association à l'affaire d'un contrat de prestation client. Dans ce cas, des conditions
+supplémentaires sont à réunir :
+➢ Il existe un contrat de prestation fournisseur dont le mode de facturation est « RECP » (à
+réception de factures) ;
+➔ Le contrat de prestation fournisseur devra comporter un type de ligne dont la destination
+du flux est « RF » ;
+66
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Refacturation au client et flux d'ajustement clients
+❖ Pour qu'une refacturation au client soit possible, les conditions suivantes doivent être
+réunies :
+➢ Existence d’un type de ligne « Refacturation de charges – client » (destination du flux « FI »
+ou « FP ») ;
+➢ Existence d’un type de ligne « Refacturation de charges – fournisseur » dont la destination
+du flux est « RF » et induisant le type de ligne défini ci-dessus.
+❖ Les types de ligne fournisseur ayant « RF » comme destination de flux peuvent être
+sélectionnés lors de la saisie de la facture fournisseur
+➢ ils induiront automatiquement les flux prévisionnels pour la facturation client.
+❖ Association à l'affaire d'un contrat de prestation client. Dans ce cas, des conditions
+supplémentaires sont à réunir :
+➢ Il existe un contrat de prestation fournisseur dont le mode de facturation est « RECP » (à
+réception de factures) ;
+➔ Le contrat de prestation fournisseur devra comporter un type de ligne dont la destination
+du flux est « RF » ;
+66		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Refacturation au client et flux d'ajustement clients
+➢ Il existe un package liant au contrat de prestation fournisseur, un contrat de prestation client
+dont le mode de facturation sera « Refacturation réelle ».
+➔ Le contrat de prestation client devra comporter le type de ligne induit par le type de ligne
+du contrat de prestation fournisseur.
+Pour créer les flux d'ajustement client :
+❖ La facture fournisseur doit être saisie et injectée dans la piste d'audit fournisseur.
+❖ Les factures fournisseurs sont saisies soit manuellement, soit au travers d'une interface.
+❖ Les conditions qui doivent être réunies sont les suivantes :
+➢ Existence d’un type de ligne « refacturation de charges – client » (destination du flux « FI »
+ou « FP ») ;
+➢ Existence d’un type de ligne « Ajustement des flux – fournisseur » dont la destination du flux
+est « RG » et induisant le type de ligne défini ci-dessus ;
+67
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Refacturation au client et flux d'ajustement clients
+➢ Il existe un package liant au contrat de prestation fournisseur, un contrat de prestation client
+dont le mode de facturation sera « Refacturation réelle ».
+➔ Le contrat de prestation client devra comporter le type de ligne induit par le type de ligne
+du contrat de prestation fournisseur.
+Pour créer les flux d'ajustement client :
+❖ La facture fournisseur doit être saisie et injectée dans la piste d'audit fournisseur.
+❖ Les factures fournisseurs sont saisies soit manuellement, soit au travers d'une interface.
+❖ Les conditions qui doivent être réunies sont les suivantes :
+➢ Existence d’un type de ligne « refacturation de charges – client » (destination du flux « FI »
+ou « FP ») ;
+➢ Existence d’un type de ligne « Ajustement des flux – fournisseur » dont la destination du flux
+est « RG » et induisant le type de ligne défini ci-dessus ;
+67		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Refacturation au client et flux d'ajustement clients
+❖ Les conditions qui doivent être réunies sont les suivantes (suite):
+➢ Existence d’un contrat de prestation fournisseur dont le mode de facturation est « RREG » (à
+réception de factures avec ajustement) ;
+➔ Le contrat de prestation fournisseur devra comporter un type de ligne dont la
+destination du flux est « RG » ;
+➢ Existence d’un package liant au contrat de prestation fournisseur, un contrat de prestation
+client dont le mode de facturation sera « Abonnement ».
+➔Le contrat de prestation client devra comporter le type de ligne induite par le type de
+ligne du contrat de prestation fournisseur ;
+68
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Refacturation au client et flux d'ajustement clients
+❖ Les conditions qui doivent être réunies sont les suivantes (suite):
+➢ Existence d’un contrat de prestation fournisseur dont le mode de facturation est « RREG » (à
+réception de factures avec ajustement) ;
+➔ Le contrat de prestation fournisseur devra comporter un type de ligne dont la
+destination du flux est « RG » ;
+➢ Existence d’un package liant au contrat de prestation fournisseur, un contrat de prestation
+client dont le mode de facturation sera « Abonnement ».
+➔Le contrat de prestation client devra comporter le type de ligne induite par le type de
+ligne du contrat de prestation fournisseur ;
+68		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Après saisie des données de la facture,
+❖ Le statut de la facture devra être modifié en "Attente de validation".
+❖ Lors de la validation, le statut deviendra "Facture validée".
+❑ La validation peut être effectuée "globalement" ou de manière "détaillée".
+❑ Lors de la validation d'une facture fournisseur, le système crée des factures internes en
+fonction des types de ligne des factures fournisseur.
+❑ Une facture fournisseur peut comporter des lignes relatives à différentes affaires :
+❖ Dans le cas d'une validation détaillée, le système crée un nombre de factures internes égal au
+nombre d'affaires concernées ;
+❖ Dans le cas d'une validation globale, le système procède à un
+regroupement des affaires sur la facture fournisseur, une facture
+interne est créée pour toutes les affaires concernant :
+➢ un même produit financier,
+➢ une même catégorie d'affaire,
+➢ une même Société de gestion et
+69 ➢ une même devise.
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Après saisie des données de la facture,
+❖ Le statut de la facture devra être modifié en "Attente de validation".
+❖ Lors de la validation, le statut deviendra "Facture validée".
+❑ La validation peut être effectuée "globalement" ou de manière "détaillée".
+❑ Lors de la validation d'une facture fournisseur, le système crée des factures internes en
+fonction des types de ligne des factures fournisseur.
+❑ Une facture fournisseur peut comporter des lignes relatives à différentes affaires :
+❖ Dans le cas d'une validation détaillée, le système crée un nombre de factures internes égal au
+nombre d'affaires concernées ;
+❖ Dans le cas d'une validation globale, le système procède à un
+regroupement des affaires sur la facture fournisseur, une facture
+interne est créée pour toutes les affaires concernant :
+➢ un même produit financier,
+➢ une même catégorie d'affaire,
+➢ une même Société de gestion et
+69 ➢ une même devise.		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ L’affaire centre de coût sera « Affaire pivot » des en-têtes de factures générées.
+❑ Les factures internes créées selon le processus « validation globale » seront rattachées à
+l'affaire centre de coût.
+Piste d’audit Fournisseur Factures Internes
+Piste d’audit Fournisseur
+Facture : FOU0125 Facture : FOU0125 Facture : FF000001
+Fournisseur : AF1 Facture : FF000001 Fournisseur : AF1 CRBA/CBVE
+CRBA /CBVE Affaire A 1
+Affaire A1
+Affaire A2
+L1 : Aff A1 /PFIN : CRBA / CC : CBVE L1 : Aff A1 /FinP : CRBA / CC : CBVE Facture : FF000001
+L1 : Aff A2 /PFIN : CRBA / CC : CBVE L1 : Aff A2 /FinP : CRBA / CC : CBVE CRBA/CBVE
+L1 : Aff A3 /PFIN : LLD / CC : LLDN L1 : Aff A3 /FinP : LLD / CC : LLDN Affaire A2
+Facture : FF000002
+LLD /LLDN
+Facture : FF000002
+Affaire A 3
+LLD /LLDN
+Affaire A 3
+processus de "validation Globale" processus de "validation détaillée"
+70
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ L’affaire centre de coût sera « Affaire pivot » des en-têtes de factures générées.
+❑ Les factures internes créées selon le processus « validation globale » seront rattachées à
+l'affaire centre de coût.
+Piste d’audit Fournisseur Factures Internes
+Piste d’audit Fournisseur
+Facture : FOU0125 Facture : FOU0125 Facture : FF000001
+Fournisseur : AF1 Facture : FF000001 Fournisseur : AF1 CRBA/CBVE
+CRBA /CBVE Affaire A 1
+Affaire A1
+Affaire A2
+L1 : Aff A1 /PFIN : CRBA / CC : CBVE L1 : Aff A1 /FinP : CRBA / CC : CBVE Facture : FF000001
+L1 : Aff A2 /PFIN : CRBA / CC : CBVE L1 : Aff A2 /FinP : CRBA / CC : CBVE CRBA/CBVE
+L1 : Aff A3 /PFIN : LLD / CC : LLDN L1 : Aff A3 /FinP : LLD / CC : LLDN Affaire A2
+Facture : FF000002
+LLD /LLDN
+Facture : FF000002
+Affaire A 3
+LLD /LLDN
+Affaire A 3
+processus de "validation Globale" processus de "validation détaillée"
+70		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Consultation de factures de charges et débours
+71
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Consultation de factures de charges et débours
+71		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+Demandes de traitement "DEMFCTFOUR" issues d'événements provenant de la GA
+❑ A travers de la Gestion Administrative, des demandes de traitements peuvent être liées à des
+événements : le déclenchement d'un événement peut poster une demande de traitement.
+❑ La fonction TRTDEMFOUR recherche toutes les demandes de traitement dont la fonction est
+DEMFCTFOUR et dont le statut est « ATRA » (à traiter).
+❑ L'exécution du traitement a comme conséquence la création de factures de charge et débours, avec le
+statut « en cours de saisie ».
+❑ L’écran 360 équivalent à la grille V6 FCT024 permet accessible via l’écran de saisie des
+factures charges et débours,
+❖ Permet de consulter les factures internes.
+❖ il donne accès, en cliquant sur le champ « facture N », à l’écran de consultation des
+factures.
+❑ L’écran 360 relatif à la grille V6 FCT172 permet aussi de consulter les factures internes.
+72
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Charge & Débours L et destination
+principes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+Demandes de traitement "DEMFCTFOUR" issues d'événements provenant de la GA
+❑ A travers de la Gestion Administrative, des demandes de traitements peuvent être liées à des
+événements : le déclenchement d'un événement peut poster une demande de traitement.
+❑ La fonction TRTDEMFOUR recherche toutes les demandes de traitement dont la fonction est
+DEMFCTFOUR et dont le statut est « ATRA » (à traiter).
+❑ L'exécution du traitement a comme conséquence la création de factures de charge et débours, avec le
+statut « en cours de saisie ».
+❑ L’écran 360 équivalent à la grille V6 FCT024 permet accessible via l’écran de saisie des
+factures charges et débours,
+❖ Permet de consulter les factures internes.
+❖ il donne accès, en cliquant sur le champ « facture N », à l’écran de consultation des
+factures.
+❑ L’écran 360 relatif à la grille V6 FCT172 permet aussi de consulter les factures internes.
+72		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Les prérequis pour le règlement des fournisseurs de prestations sont les suivants
+❖ Existence d'un contrat de prestation fournisseur dont la méthode de facturation sera "RVER"
+("reversement"),
+❖ Existence d'un package liant à ce contrat de prestation fournisseur, un contrat de prestation
+client dont la méthode de facturation sera "Abonnement",
+❖ Le contrat de prestation tel que décrit ci-dessus est affecté à une affaire,
+❖ Une facture client a été émise au titre de l'affaire,
+❖ La facture émise a été réglée par le client (nécessaire uniquement dans le cas où le contrat de
+prestations fournisseur prévoie que le règlement du fournisseur n'interviendra qu'après
+règlement par le client de sa facture),
+❖ La facture client a été injectée dans la piste d'audit client via la fonction FCTCLIPAC2. (voir écran
+suivant)
+74
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Les prérequis pour le règlement des fournisseurs de prestations sont les suivants
+❖ Existence d'un contrat de prestation fournisseur dont la méthode de facturation sera "RVER"
+("reversement"),
+❖ Existence d'un package liant à ce contrat de prestation fournisseur, un contrat de prestation
+client dont la méthode de facturation sera "Abonnement",
+❖ Le contrat de prestation tel que décrit ci-dessus est affecté à une affaire,
+❖ Une facture client a été émise au titre de l'affaire,
+❖ La facture émise a été réglée par le client (nécessaire uniquement dans le cas où le contrat de
+prestations fournisseur prévoie que le règlement du fournisseur n'interviendra qu'après
+règlement par le client de sa facture),
+❖ La facture client a été injectée dans la piste d'audit client via la fonction FCTCLIPAC2. (voir écran
+suivant)
+74		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Les prérequis pour le règlement des fournisseurs de prestations sont les suivants
+❖ La facture client a été injectée dans la piste d'audit client via la fonction FCTCLIPAC2.
+75
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❑ Les prérequis pour le règlement des fournisseurs de prestations sont les suivants
+❖ La facture client a été injectée dans la piste d'audit client via la fonction FCTCLIPAC2.
+75		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❖ Après alimentation de la piste d'audit client, la facture nécessaire au règlement du fournisseur de
+prestations peut être créée via la fonction FCTFOUREV2.
+❖ Une fois la (ou les) factures créées, un numéro de lot de factures sera attribué par le système.
+76
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❖ Après alimentation de la piste d'audit client, la facture nécessaire au règlement du fournisseur de
+prestations peut être créée via la fonction FCTFOUREV2.
+❖ Une fois la (ou les) factures créées, un numéro de lot de factures sera attribué par le système.
+76		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❖ Après injection des factures fournisseurs dans la piste d'audit fournisseur,
+❖ soit par saisie manuelle des factures
+❖ soit par injection via une interface spécifique,
+❖ Il peut être procédé au lancement du programme de régularisation des flux via la fonction
+FCTFOUREG.
+❖ Le système :
+❖ Sélectionne dans la piste d'audit clients les types de ligne pour lesquels le flag "régularisation" a
+été renseigné à "oui",
+❖ Génère dans la "boîte à flux" des flux inverses relativement aux prestations facturées aux clients au
+cours de la période donnée. Les flux normaux sont injectés quand la prestation est facturée au
+client suivant le mode "Abonnement".
+❖ Lit dans la piste d'audit fournisseurs les types de ligne des factures fournisseurs pour lesquels le
+mode de facturation est "Réception de factures régularisées",
+❖ Recherche le type de ligne induit correspondant aux types de ligne des factures fournisseurs
+trouvés,
+❖ Génère les flux de régularisation client.
+77
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❖ Après injection des factures fournisseurs dans la piste d'audit fournisseur,
+❖ soit par saisie manuelle des factures
+❖ soit par injection via une interface spécifique,
+❖ Il peut être procédé au lancement du programme de régularisation des flux via la fonction
+FCTFOUREG.
+❖ Le système :
+❖ Sélectionne dans la piste d'audit clients les types de ligne pour lesquels le flag "régularisation" a
+été renseigné à "oui",
+❖ Génère dans la "boîte à flux" des flux inverses relativement aux prestations facturées aux clients au
+cours de la période donnée. Les flux normaux sont injectés quand la prestation est facturée au
+client suivant le mode "Abonnement".
+❖ Lit dans la piste d'audit fournisseurs les types de ligne des factures fournisseurs pour lesquels le
+mode de facturation est "Réception de factures régularisées",
+❖ Recherche le type de ligne induit correspondant aux types de ligne des factures fournisseurs
+trouvés,
+❖ Génère les flux de régularisation client.
+77		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❖ La différence entre le montant total facturé au client et le montant dû au fournisseur est facturé
+au client (facture ou avoir) et, par ailleurs, stocké dans la piste d'audit fournisseur.
+❖ Le programme de régularisation des flux peut être lancé pour plusieurs fournisseurs de
+prestations et plusieurs affaires, en réel ou dans le cadre d'une simulation (ceci permet de vérifier
+si le programme sélectionne le nombre ad hoc de lignes, mais ne permet pas de consulter le
+montant des différences).
+78
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+NTOP/NATL/TYP Facturation Facturation Les étapes
+Règles et Facturation des exceptionnelle
+Facture Fournisseur Prestation L et destination p rincipes client fournisseur commission s de la
+de flux
+s facturation
+Facture Charge & Facture Fournisseur
+Débours de prestation
+❖ La différence entre le montant total facturé au client et le montant dû au fournisseur est facturé
+au client (facture ou avoir) et, par ailleurs, stocké dans la piste d'audit fournisseur.
+❖ Le programme de régularisation des flux peut être lancé pour plusieurs fournisseurs de
+prestations et plusieurs affaires, en réel ou dans le cadre d'une simulation (ceci permet de vérifier
+si le programme sélectionne le nombre ad hoc de lignes, mais ne permet pas de consulter le
+montant des différences).
+78		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Facturation
+Les étapes
+NTOP/NATL/TYP
+Règles et Facturation Facturation des exceptionnelle
+Facturation des Commissions L et destination principes client fournisseur s de la
+de flux
+commissions facturation
+❑ Un tiers ayant un rôle d'apporteur (APPO) peut être lié à une société de gestion
+par le biais d'une convention d'apport
+❑ Cette convention détermine les conditions financières de la rémunération de
+l'apport.
+❑ Ce tiers apporteur peut être par ailleurs lié à une affaire.
+❑ A la mise en loyer de l'affaire, un échéancier est créé, correspondant à la
+rémunération à verser à l'apporteur.
+80
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Facturation
+Les étapes
+NTOP/NATL/TYP
+Règles et Facturation Facturation des exceptionnelle
+Facturation des Commissions L et destination principes client fournisseur s de la
+de flux
+commissions facturation
+❑ Un tiers ayant un rôle d'apporteur (APPO) peut être lié à une société de gestion
+par le biais d'une convention d'apport
+❑ Cette convention détermine les conditions financières de la rémunération de
+l'apport.
+❑ Ce tiers apporteur peut être par ailleurs lié à une affaire.
+❑ A la mise en loyer de l'affaire, un échéancier est créé, correspondant à la
+rémunération à verser à l'apporteur.
+80		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Facturation
+Les étapes
+NTOP/NATL/TYP
+Règles et Facturation Facturation des exceptionnelle
+Facturation des Commissions L et destination principes client fournisseur s de la
+de flux
+commissions facturation
+❑ Le reversement des commissions à un ou plusieurs apporteurs, est lancé avec la
+fonction REVCOMM43
+❑ Le traitement peut traiter une ou plusieurs conventions d'apporteurs.
+❑ Après traitement, on peut consulter l'état de reversement des commissions
+81
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Facturation
+Les étapes
+NTOP/NATL/TYP
+Règles et Facturation Facturation des exceptionnelle
+Facturation des Commissions L et destination principes client fournisseur s de la
+de flux
+commissions facturation
+❑ Le reversement des commissions à un ou plusieurs apporteurs, est lancé avec la
+fonction REVCOMM43
+❑ Le traitement peut traiter une ou plusieurs conventions d'apporteurs.
+❑ Après traitement, on peut consulter l'état de reversement des commissions
+81		NTOP/NATL/T
+L et destinatio
+de flux	YP
+Règles et
+n
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commissions	Les étapes
+exceptionnelle
+s de la
+facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION Facturation des
+Les étapes
+NOTP/NATL/TYPL et
+Règles et principes Règles et principes La facturation fournisseur exceptionnelles de
+Destination des FLUX commissions
+Facturation la facturation
+des commissions
+Commisison
+apport/contre-garantie
+Commission d’apport et de contre garantie
+❑ Les différentes valeurs des colonnes "Sens", "Statut" et "Traité" peuvent être résumées
+par le tableau ci-dessous :
+82
+EKIP360 –FACTURATION
+on	NOTP/NATL/TYPL et
+Destination des FLUX	Règles et principes	Règles et principes	La facturation fournis	Facturation des
+seur
+commissions	Les étapes
+exceptionnelles de
+la facturation
+
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TY Facturation
+PL et Règles et Facturation Facturation des exceptionnelles
+Arrêt de Facturation
+destination de principes client fournisseur commission
+flux s de la facturation
+❑ Cette fonctionnalité permet la mise en place d’un projet d’arrêt temporaire de la
+facturation des échéances, ce qui implique
+❖ L’arrêt de prélèvement des échéances,
+❖ La non constatation des échéances dans les comptes de produit,
+❖ La constatation des échéances en tant que produits à percevoir dans le calcul d’inventaire de la fin
+de mois
+❖ L'arrêt du reversement d'éventuelles prestations sur l'affaire
+❑ Les conséquences de cette fonction sont très graves en cas d’utilisation abusive.
+C’est pourquoi, plusieurs voies de sécurisation sont élaborées et mises à la
+disposition des utilisateurs d’EKIP :
+❖ Les actions de blocages/déblocages de la facturation sont historisées avec l’heure exacte des
+actions et l’utilisateur ayant effectué l’action.
+❖ L’accès au blocage/déblocage de la facturation d’une affaire se fait via une habilitation dédiée à
+cette fonction .
+84
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TY Facturation
+PL et Règles et Facturation Facturation des exceptionnelles
+Arrêt de Facturation
+destination de principes client fournisseur commission
+flux s de la facturation
+❑ Cette fonctionnalité permet la mise en place d’un projet d’arrêt temporaire de la
+facturation des échéances, ce qui implique
+❖ L’arrêt de prélèvement des échéances,
+❖ La non constatation des échéances dans les comptes de produit,
+❖ La constatation des échéances en tant que produits à percevoir dans le calcul d’inventaire de la fin
+de mois
+❖ L'arrêt du reversement d'éventuelles prestations sur l'affaire
+❑ Les conséquences de cette fonction sont très graves en cas d’utilisation abusive.
+C’est pourquoi, plusieurs voies de sécurisation sont élaborées et mises à la
+disposition des utilisateurs d’EKIP :
+❖ Les actions de blocages/déblocages de la facturation sont historisées avec l’heure exacte des
+actions et l’utilisateur ayant effectué l’action.
+❖ L’accès au blocage/déblocage de la facturation d’une affaire se fait via une habilitation dédiée à
+cette fonction .
+84		NTOP/NATL/T
+PL et
+destination de
+flux	Y
+Règles et
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TY Facturation
+PL et Règles et Facturation Facturation des exceptionnelles
+Arrêt de Facturation
+destination de principes client fournisseur commission
+flux s de la facturation
+❑ Les fonctions de blocage/déblocage sont des fonctions GA, elles permettent d’implémenter
+des solutions de type
+❖ Alerte gestionnaire,
+❖ Modification statut de l’affaire,
+❖ Blocage d’autres actions GA,
+❖ Modification du statut comptable de l’affaire,…
+❑ EKIP met à la disposition de l’utilisateur une fonction de consultation des affaires en
+blocage de facturation.
+❑ EKIP met à la disposition de l’utilisateur une fonction de contrôle qui permet de vérifier si
+l’affaire n’est pas en blocage facturation pour empêcher d’activer dans ce cas d’autres
+fonctions EKIP de type GA. ( Exemple, cette procédure de contrôle peut être utilisée pour
+empêcher la cession des biens).
+❑ Un critère GA permet d’indiquer si l’affaire est en blocage de facturation ou non.
+❑ Le compte rendu de traitement de la facturation indique les affaires en arrêt facturation qui
+auraient dû être traitées.
+85
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TY Facturation
+PL et Règles et Facturation Facturation des exceptionnelles
+Arrêt de Facturation
+destination de principes client fournisseur commission
+flux s de la facturation
+❑ Les fonctions de blocage/déblocage sont des fonctions GA, elles permettent d’implémenter
+des solutions de type
+❖ Alerte gestionnaire,
+❖ Modification statut de l’affaire,
+❖ Blocage d’autres actions GA,
+❖ Modification du statut comptable de l’affaire,…
+❑ EKIP met à la disposition de l’utilisateur une fonction de consultation des affaires en
+blocage de facturation.
+❑ EKIP met à la disposition de l’utilisateur une fonction de contrôle qui permet de vérifier si
+l’affaire n’est pas en blocage facturation pour empêcher d’activer dans ce cas d’autres
+fonctions EKIP de type GA. ( Exemple, cette procédure de contrôle peut être utilisée pour
+empêcher la cession des biens).
+❑ Un critère GA permet d’indiquer si l’affaire est en blocage de facturation ou non.
+❑ Le compte rendu de traitement de la facturation indique les affaires en arrêt facturation qui
+auraient dû être traitées.
+85		NTOP/NATL/T
+PL et
+destination de
+flux	Y
+Règles et
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TY Facturation
+PL et Règles et Facturation Facturation des exceptionnelles
+Arrêt de Facturation
+destination de principes client fournisseur commission
+flux s de la facturation
+❑ Dans la gestion des factures les utilisateurs ont la possibilité de :
+❖ Bloquer la facturation d’une affaire à partir d’une date d’échéance.
+❖ Pour bloquer la facturation d’une affaire, il faut créer un enregistrement, puis le passer au statut
+« En exploitation ».
+❖ Un seul projet de « blocage de la facturation » non annulé peut exister pour une affaire.
+❖ Pour débloquer la facturation d’une affaire, il suffit de passer à « Annulé »
+86
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TY Facturation
+PL et Règles et Facturation Facturation des exceptionnelles
+Arrêt de Facturation
+destination de principes client fournisseur commission
+flux s de la facturation
+❑ Dans la gestion des factures les utilisateurs ont la possibilité de :
+❖ Bloquer la facturation d’une affaire à partir d’une date d’échéance.
+❖ Pour bloquer la facturation d’une affaire, il faut créer un enregistrement, puis le passer au statut
+« En exploitation ».
+❖ Un seul projet de « blocage de la facturation » non annulé peut exister pour une affaire.
+❖ Pour débloquer la facturation d’une affaire, il suffit de passer à « Annulé »
+86		NTOP/NATL/T
+PL et
+destination de
+flux	Y
+Règles et
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TY Facturation
+PL et Règles et Facturation Facturation des exceptionnelles
+Arrêt de Facturation
+destination de principes client fournisseur commission
+flux s de la facturation
+Fonction d’annulation
+de blocage (déblocage)
+Consulter l’historique de
+blocage de la facturation
+des affaires
+87
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+Les étapes
+NTOP/NATL/TY Facturation
+PL et Règles et Facturation Facturation des exceptionnelles
+Arrêt de Facturation
+destination de principes client fournisseur commission
+flux s de la facturation
+Fonction d’annulation
+de blocage (déblocage)
+Consulter l’historique de
+blocage de la facturation
+des affaires
+87		NTOP/NATL/T
+PL et
+destination de
+flux	Y
+Règles et
+principes	Facturation
+client	Facturation
+fournisseur	Facturation
+des
+commission
+s	Les étapes
+exceptionnelles
+de la facturation	
+
+SUPPORT DE FORMATION EKIP360 –FACTURATION
+MODÈLE CONCEPTUEL DE DONNÉES : MODULE FACTURATION
+Contrat
+(AFFAIRE)
+• Id_Affaire
+• Ie_Affaire
+Avoirs
+Entête Facture
+(MVTNEW) Tiers Facturé
+Echéancier (TABECH)
+Facturation
+(TIERS)
+• ID_MVT
+• ID_TABECH
+• Id_Tiers
+• NO_Mouvement
+• NO_Echeance
+• Tiers
+Facturation
+Ligne Facture
+Flux de facturation
+(MVTLIGNEW)
+(FLUXPREV)
+• ID_FLUXPREV • ID_MVTLIG
+88
+
+

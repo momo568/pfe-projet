@@ -1,0 +1,8 @@
+--- Page 23 ---. Moulinette de Calcul
+
+Taux périodique = Taux d’intérêt annuel  périodicité /12
+Montant à financer = Montant du bien – Apport
+Loyer = Capital + intérêt
+Somme des loyer = Loyer  Durée
+Agios = La somme des loyers – Montant à financer
+

@@ -1,0 +1,7 @@
+--- Page 48 ---. Révolving Définitions 
+
+. Le crédit revolving est une réserve d’argent mise à la disposition d’un client
+. Le client est libre d’en disposer ou pas.
+. S’il l’utilise, il devra payer des échéances
+. A chaque fois qu’un client rembourse des sommes, il reconstitue la réserve autorisée.
+

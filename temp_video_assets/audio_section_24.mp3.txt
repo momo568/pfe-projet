@@ -1,0 +1,13 @@
+--- Page 26 ---. Moulinette de Calcul Exercice
+_Caractéristique du crédit_
+
+- Montant du crédit = 25000€
+- Durée = 36 mois
+- Taux d'intérêt = 5%
+- Apport = 3000€
+- Montant à financer = 22000€
+
+ Données calculés
+- Montant échéance = 659, 36€
+- Taux périodique = 0,416667
+

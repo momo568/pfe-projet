@@ -1,0 +1,128 @@
+import os
+import cv2
+import numpy as np
+import imagehash
+from PIL import Image
+from pdf2image import convert_from_path
+
+def create_directories(output_dir):
+    figures_dir = os.path.join(output_dir, "figures_extracted")
+    os.makedirs(figures_dir, exist_ok=True)
+    return figures_dir
+
+def extract_figures_from_pdf(pdf_path, output_dir="output", margin=50):
+    figures_dir = create_directories(output_dir)
+    
+    print("🚀 Conversion du PDF en images...")
+    images = convert_from_path(pdf_path, dpi=300)
+    
+    figures = []
+    for page_num, img_pil in enumerate(images, start=1):
+        print(f"🔍 Traitement de la page {page_num}...")
+        img_np = np.array(img_pil)
+        gray = cv2.cvtColor(img_np, cv2.COLOR_RGB2GRAY)
+
+        # 📌 Réduction du bruit et amélioration du contraste
+        gray = cv2.GaussianBlur(gray, (5,5), 0)
+        gray = cv2.equalizeHist(gray)
+
+        # 📌 Détection améliorée des bords
+        edges = cv2.Canny(gray, 30, 150)
+
+        # 📌 Détection des contours avec expansion automatique
+        contours, _ = cv2.findContours(edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+
+        detected_areas = [
+            cv2.boundingRect(contour) for contour in contours 
+            if cv2.boundingRect(contour)[2] > 250 and cv2.boundingRect(contour)[3] > 250  # 📌 On prend seulement les grandes figures
+        ]
+        merged_areas = merge_overlapping_rectangles(detected_areas, margin)
+
+        for i, (x1, y1, x2, y2) in enumerate(merged_areas):
+            x1, y1 = max(0, x1 - margin), max(0, y1 - margin)  # 📌 Expansion pour éviter la coupe
+            x2, y2 = min(img_pil.width, x2 + margin), min(img_pil.height, y2 + margin)
+
+            # 📌 Correction spéciale pour détecter et capturer **entièrement** les tableaux
+            if is_table_structure(gray[y1:y2, x1:x2]):
+                x1, y1 = max(0, x1 - 20), max(0, y1 - 20)  # Expansion spéciale
+                x2, y2 = min(img_pil.width, x2 + 20), min(img_pil.height, y2 + 20)
+
+            if x2 > x1 and y2 > y1:
+                figure = img_pil.crop((x1, y1, x2, y2))
+
+                # 📌 Vérification de la taille minimale pour éviter les zooms excessifs
+                if (x2 - x1) > 500 and (y2 - y1) > 500:
+                    figure_filename = f"_page_{page_num}_Figure_{i + 1}.jpeg"
+                    figure_path = os.path.join(figures_dir, figure_filename)
+                    figure.save(figure_path, format="JPEG")
+                    figures.append(figure_path)
+                else:
+                    print(f"⚠️ Figure ignorée car trop petite : {x1, y1, x2, y2}")
+    
+    print(f"✅ Extraction terminée : {len(figures)} figures détectées.")
+    return figures
+
+def merge_overlapping_rectangles(rectangles, margin=50):
+    """ 📌 Fusionner les rectangles qui se chevauchent pour éviter les figures coupées """
+    if not rectangles:
+        return []
+    
+    rectangles = sorted(rectangles, key=lambda r: (r[1], r[0]))  # 📌 Trier par position
+    merged = []
+    
+    for rect in rectangles:
+        x1, y1, w, h = rect
+        x2, y2 = x1 + w, y1 + h
+        x1, y1, x2, y2 = x1 - margin, y1 - margin, x2 + margin, y2 + margin  # 📌 Expansion des marges
+
+        if not merged:
+            merged.append((x1, y1, x2, y2))
+            continue
+
+        mx1, my1, mx2, my2 = merged[-1]
+
+        if x1 <= mx2 and y1 <= my2:
+            merged[-1] = (min(x1, mx1), min(y1, my1), max(x2, mx2), max(y2, my2))  # 📌 Fusionner si chevauchement
+        else:
+            merged.append((x1, y1, x2, y2))
+    
+    return merged
+
+def is_table_structure(region):
+    """ 📌 Détecte si une région ressemble à un tableau pour éviter qu’il soit coupé """
+    edges = cv2.Canny(region, 50, 150)
+    lines = cv2.HoughLinesP(edges, 1, np.pi/180, threshold=50, minLineLength=50, maxLineGap=5)
+    return lines is not None  # 📌 Si on détecte plusieurs lignes, c'est sûrement un tableau
+
+def remove_duplicate_figures(figures):
+    print("🔍 Vérification des doublons...")
+    hashes = {}
+    unique_figures = []
+    
+    for figure_path in figures:
+        img = Image.open(figure_path)
+        img_hash = imagehash.phash(img)
+        
+        if img_hash not in hashes:
+            hashes[img_hash] = figure_path
+            unique_figures.append(figure_path)
+        else:
+            print(f"❌ Figure en double détectée : {figure_path} (Supprimée)")
+            os.remove(figure_path)
+    
+    print(f"✅ {len(unique_figures)} figures uniques conservées.")
+    return unique_figures
+
+def main():
+    pdf_path = r"F:\app\Downloads\TW-Formation Métiers.pdf" # 📌 Modifier avec le bon chemin
+    
+    print("🚀 Extraction des figures et diagrammes...")
+    figures = extract_figures_from_pdf(pdf_path)
+    
+    print("🚀 Suppression des doublons...")
+    unique_figures = remove_duplicate_figures(figures)
+    
+    print("✅ Processus terminé ! Seules les figures et diagrammes uniques sont conservés.")
+
+if __name__ == "__main__":
+    main()

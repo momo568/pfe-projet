@@ -1,0 +1,79 @@
+import logging
+import os
+import fitz  # PyMuPDF
+from PIL import Image, ImageOps
+import io
+
+# Configuration du logging
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+
+def extract_specific_graphic(pdf_path, output_dir="C:/Temp"):
+    """Capture uniquement la zone contenant le graphique, sans les textes extérieurs."""
+    os.makedirs(output_dir, exist_ok=True)
+    image_dir = os.path.join(output_dir, "cropped_graphics")
+    os.makedirs(image_dir, exist_ok=True)  
+
+    markdown_content = ["# Extraction précise des graphiques\n"]
+    image_count = 1  
+
+    try:
+        doc = fitz.open(pdf_path)
+
+        for page_num, page in enumerate(doc, start=1):
+            page_markdown = [f"\n## Page {page_num}\n"]
+            elements_detected = False  
+
+            # 📌 Convertir la page en image
+            pix = page.get_pixmap(matrix=fitz.Matrix(2, 2))  # Haute résolution
+            img_data = pix.tobytes("png")
+            pil_image = Image.open(io.BytesIO(img_data))
+
+            # 📌 Détection automatique de la zone utile (sans texte autour)
+            bbox = pil_image.getbbox()
+            if bbox:
+                cropped_image = pil_image.crop(bbox)  # Rogner pour garder uniquement le schéma
+                image_filename = f"cropped_page{page_num}.png"
+                image_path = os.path.join(image_dir, image_filename)
+                cropped_image.save(image_path)
+
+                # Ajouter l'image extraite dans le Markdown
+                page_markdown.append(f"![Graphique {image_count}](cropped_graphics/{image_filename})\n")
+                image_count += 1
+                elements_detected = True
+                logging.info(f"✅ Graphique extrait proprement pour la page {page_num}")
+
+            if not elements_detected:
+                page_markdown.append(f"\n⚠️ **Aucun schéma détecté sur la page {page_num}.**\n")
+
+            markdown_content.extend(page_markdown)
+
+        # 🔹 Sauvegarde en Markdown
+        markdown_path = os.path.join(output_dir, "cropped_graphics.md")
+        with open(markdown_path, "w", encoding="utf-8") as md_file:
+            md_file.write("\n".join(markdown_content))
+
+        logging.info(f"✅ Extraction réussie ! Fichier Markdown généré : {markdown_path}")
+        return markdown_path
+
+    except Exception as e:
+        logging.error(f"❌ Erreur lors de l'extraction : {e}")
+        return None
+
+def main():
+    """Lance l'extraction"""
+    pdf_path = input("Entrez le chemin du fichier PDF : ").strip()
+    if not pdf_path or not os.path.exists(pdf_path):
+        logging.error("❌ Aucun fichier PDF valide sélectionné.")
+        return
+
+    logging.info("🔄 Extraction des graphiques spécifiques en cours...")
+    md_file = extract_specific_graphic(pdf_path)
+    if md_file:
+        logging.info(f"✅ Extraction réussie, fichier généré : {md_file}")
+    else:
+        logging.error("❌ Échec de l'extraction.")
+
+    logging.info("🔚 Traitement terminé.")
+
+if __name__ == "__main__":
+    main()

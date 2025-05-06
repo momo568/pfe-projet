@@ -1,0 +1,21 @@
+--- Page 20 ---. Les Types d’amortissement d’un Crédit Bancaire
+3. Amortissement modulable:
+. L’amortissement avec amortissements modulables offre une certaine souplesse de remboursement.
+. Avec les amortissements modulables, l'emprunteur peut réduire la durée du prêt ou inversement en cas de
+difficultés passagères, rallonger la durée de son emprunt.
+.L’amortissement modulable donne la possibilité à l’emprunteur d’adapter ses remboursements en fonction
+de l’évolution de ses revenus.
+4. Amortissement "in fine " :
+. L’amortissement in fine implique que pendant toute la durée du crédit, l'emprunteur ne paie que les
+intérêts.
+. Avec un amortissement in fine, l'emprunteur devra rembourser la totalité du capital, en une seule fois à une
+échéance prédéterminée.
+. Les intérêts payés sont constants puisqu’ils sont calculés à sur le capital total emprunté
+5. Différé d'amortissement:
+. Il est possible pour la banque et son client de prévoir un différé d’amortissement et donc, de remboursement.
+Lorsqu'un différé de remboursement est partiel, il porte sur le capital.:
+. L’emprunteur va alors payer les intérêts calculés sur la totalité du capital emprunté au cours de la période de
+différé.
+. A la fin de cette période, l’emprunteur rembourse normalement son prêt. Les échéances comportent à la fois
+une partie d’intérêts et une partie de remboursement de capital.
+

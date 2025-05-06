@@ -1,0 +1,12 @@
+--- Page 49 ---. Révolving… Définitions
+ Plafond = Autorisation de Découvert maximal
+ = Montant total autorisé
+ Tirage= Utilisation à un instant t
+ <= Plafond
+ Utilisé= Encours des sommes utilisées et non
+ encore remboursées
+ = Ʃ Tirages - Ʃ Remboursements
+ Disponible  = Réserve d’argent non utilisée 
+=  Autorisation - Utilisé
+
+

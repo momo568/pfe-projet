@@ -1,0 +1,19 @@
+--- Page 19 ---. Les Types d’amortissement d’un Crédit Bancaire
+. L'amortissement d’un crédit bancaire correspond au remboursement progressif, à chaque échéance, du
+capital emprunté par le client auprès de sa banque.
+. Chaque échéance de remboursement est composée du montant des intérêts calculés sur le capital restant
+dû et de l’amortissement du capital emprunté.
+. Le mode d’amortissement dépend des offres des banques et des choix des clients.
+.Les modalités de remboursement du crédit sont déterminées à l’avance.
+. En règle générale, le prêteur doit remettre à l’emprunteur un tableau d'amortissement où sont reprises les
+caractéristiques du prêt et les échéances.
+1. Amortissement par annuités constantes:
+. L’amortissement avec annuités constantes est la formule la plus souvent rencontrée à l’occasion des
+remboursements de crédits.
+. La part des intérêts dans un amortissement avec annuités constantes est plus élevée au départ. Elle va
+ensuite diminuer régulièrement tandis que celle du capital remboursé va progressivement augmenter.
+2. Amortissement par échéances constantes (Capital constant) :
+. Le principe de ce mode d'amortissement est que la part de capital remboursée à chaque échéance est la
+même pendant toute la durée de l'emprunt.
+. Ce type d’amortissement est appelé amortissement constant ou linéaire du crédit.
+
